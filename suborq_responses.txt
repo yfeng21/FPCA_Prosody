@@ -1,0 +1,1089 @@
+experiment	item	condition	bracketing	order	text	participant	playlist	order	trialN	recordedFile	
+suborq	2	1	4	l	I thought they said Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1229	1	1	1	suborq_1229_2_4.wav	
+suborq	5	3	1	r	She read in the minutes that Marion, or Benjamin and Jeremy have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1229	1	2	2	suborq_1229_5_1.wav	
+suborq	4	2	2	l	You said that Megan and Dillon, or Morgan would help.  But now it turns out that Megan and Lauren, or Morgan would help?	1229	1	3	3	suborq_1229_4_2.wav	
+suborq	3	2	3	r	You said that Dillon, and Lauren or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1229	1	4	4	suborq_1229_3_3.wav	
+suborq	1	1	1	r	I thought they said Marion, or Marvin and Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1229	1	5	5	suborq_1229_1_1.wav	
+suborq	7	4	3	r	He said that Sally, and Logan or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1229	1	6	6	suborq_1229_7_3.wav	
+suborq	8	4	2	l	He said that Marjorie and Sally, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1229	1	7	7	suborq_1229_8_2.wav	
+suborq	6	3	4	l	She read in the minutes that Jeremy has to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1229	1	8	8	suborq_1229_6_4.wav	
+suborq	4	2	1	l	You said that Dillon and Lauren, or Morgan would help. But now it turns out that Megan and Lauren, or Morgan would help?	1229	1	9	9	suborq_1229_4_1.wav	
+suborq	1	1	4	r	I thought they said Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1229	1	10	10	suborq_1229_1_4.wav	
+suborq	7	4	2	r	He said that Marjorie, and Sally or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1229	1	11	11	suborq_1229_7_2.wav	
+suborq	2	1	3	l	I thought they said Sarah or Marvin, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1229	1	12	12	suborq_1229_2_3.wav	
+suborq	6	3	3	l	She read in the minutes that Jeremy or Benjamin, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1229	1	13	13	suborq_1229_6_3.wav	
+suborq	8	4	1	l	He said that Marjorie and Logan, or Sally were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1229	1	14	14	suborq_1229_8_1.wav	
+suborq	3	2	2	r	You said that Megan, and Dillon or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1229	1	15	15	suborq_1229_3_2.wav	
+suborq	5	3	4	r	She read in the minutes that Jeremy has to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1229	1	16	16	suborq_1229_5_4.wav	
+suborq	7	4	4	r	He said that Sally was nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1229	1	17	17	suborq_1229_7_4.wav	
+suborq	4	2	3	l	You said that Megan and Lauren, or Dillon would help. But now it turns out that Morgan and Lauren, or Morgan would help?	1229	1	18	18	suborq_1229_4_3.wav	
+suborq	1	1	2	r	I thought they said Marion, or Sarah and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1229	1	19	19	suborq_1229_1_2.wav	
+suborq	2	1	1	l	I thought they said Marion or Marvin, and Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1229	1	20	20	suborq_1229_2_1.wav	
+suborq	5	3	2	r	She read in the minutes that Marion, or Jeremy and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1229	1	21	21	suborq_1229_5_2.wav	
+suborq	8	4	3	l	He said that Sally and Logan, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1229	1	22	22	suborq_1229_8_3.wav	
+suborq	3	2	4	r	You said that Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1229	1	23	23	suborq_1229_3_4.wav	
+suborq	6	3	1	l	She read in the minutes that Marion or Benjamin, and Jeremy have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1229	1	24	24	suborq_1229_6_1.wav	
+suborq	2	1	2	l	I thought they said Marion or Sarah, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1229	1	25	25	suborq_1229_2_2.wav	
+suborq	7	4	1	r	He said that Marjorie, and Logan or Sally were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1229	1	26	26	suborq_1229_7_1.wav	
+suborq	1	1	3	r	I thought they said Sarah, or Marvin and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1229	1	27	27	suborq_1229_1_3.wav	
+suborq	4	2	4	l	You said that Dillon would help. But now it turns out that Megan and Lauren, or Morgan would help?	1229	1	28	28	suborq_1229_4_4.wav	
+suborq	6	3	2	l	She read in the minutes that Marion or Jeremy, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1229	1	29	29	suborq_1229_6_2.wav	
+suborq	5	3	3	r	She read in the minutes that Jeremy, or Benjamin and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1229	1	30	30	suborq_1229_5_3.wav	
+suborq	8	4	4	l	He said that Sally was nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1229	1	31	31	suborq_1229_8_4.wav	
+suborq	3	2	1	r	You said that Megan, and Lauren or Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1229	1	32	32	suborq_1229_3_1.wav	
+suborq	5	3	3	r	She read in the minutes that Jeremy, or Benjamin and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	933	1	1	1	suborq_933_5_3.wav	
+suborq	4	2	4	l	You said that Dillon would help. But now it turns out that Megan and Lauren, or Morgan would help?	933	1	2	2	suborq_933_4_4.wav	
+suborq	3	2	1	r	You said that Megan, and Lauren or Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	933	1	3	3	suborq_933_3_1.wav	
+suborq	2	1	2	l	I thought they said Marion or Sarah, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	933	1	4	4	suborq_933_2_2.wav	
+suborq	7	4	1	r	He said that Marjorie, and Logan or Sally were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	933	1	5	5	suborq_933_7_1.wav	
+suborq	8	4	4	l	He said that Sally was nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	933	1	6	6	suborq_933_8_4.wav	
+suborq	1	1	3	r	I thought they said Sarah, or Marvin and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	933	1	7	7	suborq_933_1_3.wav	
+suborq	6	3	2	l	She read in the minutes that Marion or Jeremy, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	933	1	8	8	suborq_933_6_2.wav	
+suborq	2	1	4	l	I thought they said Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	933	1	9	9	suborq_933_2_4.wav	
+suborq	1	1	1	r	I thought they said Marion, or Marvin and Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	933	1	10	10	suborq_933_1_1.wav	
+suborq	7	4	3	r	He said that Sally, and Logan or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	933	1	11	11	suborq_933_7_3.wav	
+suborq	4	2	2	l	You said that Megan and Dillon, or Morgan would help.  But now it turns out that Megan and Lauren, or Morgan would help?	933	1	12	12	suborq_933_4_2.wav	
+suborq	6	3	4	l	She read in the minutes that Jeremy has to go. But it actually says that Marion or Benjamin, and Lillian have to go?	933	1	13	13	suborq_933_6_4.wav	
+suborq	8	4	2	l	He said that Marjorie and Sally, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	933	1	14	14	suborq_933_8_2.wav	
+suborq	3	2	3	r	You said that Dillon, and Lauren or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	933	1	15	15	suborq_933_3_3.wav	
+suborq	5	3	1	r	She read in the minutes that Marion, or Benjamin and Jeremy have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	933	1	16	16	suborq_933_5_1.wav	
+suborq	5	3	4	r	She read in the minutes that Jeremy has to go. But it actually says that Marion, or Benjamin and Lillian have to go?	933	1	17	17	suborq_933_5_4.wav	
+suborq	3	2	2	r	You said that Megan, and Dillon or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	933	1	18	18	suborq_933_3_2.wav	
+suborq	4	2	1	l	You said that Dillon and Lauren, or Morgan would help. But now it turns out that Megan and Lauren, or Morgan would help?	933	1	19	19	suborq_933_4_1.wav	
+suborq	2	1	3	l	I thought they said Sarah or Marvin, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	933	1	20	20	suborq_933_2_3.wav	
+suborq	1	1	4	r	I thought they said Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	933	1	21	21	suborq_933_1_4.wav	
+suborq	6	3	3	l	She read in the minutes that Jeremy or Benjamin, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	933	1	22	22	suborq_933_6_3.wav	
+suborq	8	4	1	l	He said that Marjorie and Logan, or Sally were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	933	1	23	23	suborq_933_8_1.wav	
+suborq	7	4	2	r	He said that Marjorie, and Sally or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	933	1	24	24	suborq_933_7_2.wav	
+suborq	7	4	4	r	He said that Sally was nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	933	1	25	25	suborq_933_7_4.wav	
+suborq	4	2	3	l	You said that Megan and Lauren, or Dillon would help. But now it turns out that Morgan and Lauren, or Morgan would help?	933	1	26	26	suborq_933_4_3.wav	
+suborq	1	1	2	r	I thought they said Marion, or Sarah and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	933	1	27	27	suborq_933_1_2.wav	
+suborq	2	1	1	l	I thought they said Marion or Marvin, and Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	933	1	28	28	suborq_933_2_1.wav	
+suborq	3	2	4	r	You said that Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	933	1	29	29	suborq_933_3_4.wav	
+suborq	8	4	3	l	He said that Sally and Logan, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	933	1	30	30	suborq_933_8_3.wav	
+suborq	6	3	1	l	She read in the minutes that Marion or Benjamin, and Jeremy have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	933	1	31	31	suborq_933_6_1.wav	
+suborq	5	3	2	r	She read in the minutes that Marion, or Jeremy and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	933	1	32	32	suborq_933_5_2.wav	
+suborq	2	1	4	l	I thought they said Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	930	1	1	1	suborq_930_2_4.wav	
+suborq	4	2	2	l	You said that Megan and Dillon, or Morgan would help.  But now it turns out that Megan and Lauren, or Morgan would help?	930	1	2	2	suborq_930_4_2.wav	
+suborq	5	3	1	r	She read in the minutes that Marion, or Benjamin and Jeremy have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	930	1	3	3	suborq_930_5_1.wav	
+suborq	3	2	3	r	You said that Dillon, and Lauren or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	930	1	4	4	suborq_930_3_3.wav	
+suborq	7	4	3	r	He said that Sally, and Logan or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	930	1	5	5	suborq_930_7_3.wav	
+suborq	8	4	2	l	He said that Marjorie and Sally, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	930	1	6	6	suborq_930_8_2.wav	
+suborq	1	1	1	r	I thought they said Marion, or Marvin and Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	930	1	7	7	suborq_930_1_1.wav	
+suborq	6	3	4	l	She read in the minutes that Jeremy has to go. But it actually says that Marion or Benjamin, and Lillian have to go?	930	1	8	8	suborq_930_6_4.wav	
+suborq	2	1	2	l	I thought they said Marion or Sarah, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	930	1	9	9	suborq_930_2_2.wav	
+suborq	1	1	3	r	I thought they said Sarah, or Marvin and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	930	1	10	10	suborq_930_1_3.wav	
+suborq	4	2	4	l	You said that Dillon would help. But now it turns out that Megan and Lauren, or Morgan would help?	930	1	11	11	suborq_930_4_4.wav	
+suborq	7	4	1	r	He said that Marjorie, and Logan or Sally were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	930	1	12	12	suborq_930_7_1.wav	
+suborq	3	2	1	r	You said that Megan, and Lauren or Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	930	1	13	13	suborq_930_3_1.wav	
+suborq	6	3	2	l	She read in the minutes that Marion or Jeremy, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	930	1	14	14	suborq_930_6_2.wav	
+suborq	5	3	3	r	She read in the minutes that Jeremy, or Benjamin and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	930	1	15	15	suborq_930_5_3.wav	
+suborq	8	4	4	l	He said that Sally was nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	930	1	16	16	suborq_930_8_4.wav	
+suborq	1	1	2	r	I thought they said Marion, or Sarah and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	930	1	17	17	suborq_930_1_2.wav	
+suborq	7	4	4	r	He said that Sally was nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	930	1	18	18	suborq_930_7_4.wav	
+suborq	2	1	1	l	I thought they said Marion or Marvin, and Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	930	1	19	19	suborq_930_2_1.wav	
+suborq	4	2	3	l	You said that Megan and Lauren, or Dillon would help. But now it turns out that Morgan and Lauren, or Morgan would help?	930	1	20	20	suborq_930_4_3.wav	
+suborq	5	3	2	r	She read in the minutes that Marion, or Jeremy and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	930	1	21	21	suborq_930_5_2.wav	
+suborq	8	4	3	l	He said that Sally and Logan, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	930	1	22	22	suborq_930_8_3.wav	
+suborq	6	3	1	l	She read in the minutes that Marion or Benjamin, and Jeremy have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	930	1	23	23	suborq_930_6_1.wav	
+suborq	3	2	4	r	You said that Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	930	1	24	24	suborq_930_3_4.wav	
+suborq	5	3	4	r	She read in the minutes that Jeremy has to go. But it actually says that Marion, or Benjamin and Lillian have to go?	930	1	25	25	suborq_930_5_4.wav	
+suborq	2	1	3	l	I thought they said Sarah or Marvin, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	930	1	26	26	suborq_930_2_3.wav	
+suborq	3	2	2	r	You said that Megan, and Dillon or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	930	1	27	27	suborq_930_3_2.wav	
+suborq	4	2	1	l	You said that Dillon and Lauren, or Morgan would help. But now it turns out that Megan and Lauren, or Morgan would help?	930	1	28	28	suborq_930_4_1.wav	
+suborq	8	4	1	l	He said that Marjorie and Logan, or Sally were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	930	1	29	29	suborq_930_8_1.wav	
+suborq	1	1	4	r	I thought they said Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	930	1	30	30	suborq_930_1_4.wav	
+suborq	6	3	3	l	She read in the minutes that Jeremy or Benjamin, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	930	1	31	31	suborq_930_6_3.wav	
+suborq	7	4	2	r	He said that Marjorie, and Sally or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	930	1	32	32	suborq_930_7_2.wav	
+suborq	1	1	2	r	I thought they said Marion, or Sarah and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	793	1	1	1	suborq_793_1_2.wav	
+suborq	8	4	3	l	He said that Sally and Logan, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	793	1	2	2	suborq_793_8_3.wav	
+suborq	6	3	1	l	She read in the minutes that Marion or Benjamin, and Jeremy have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	793	1	3	3	suborq_793_6_1.wav	
+suborq	7	4	4	r	He said that Sally was nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	793	1	4	4	suborq_793_7_4.wav	
+suborq	3	2	4	r	You said that Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	793	1	5	5	suborq_793_3_4.wav	
+suborq	5	3	2	r	She read in the minutes that Marion, or Jeremy and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	793	1	6	6	suborq_793_5_2.wav	
+suborq	4	2	3	l	You said that Megan and Lauren, or Dillon would help. But now it turns out that Morgan and Lauren, or Morgan would help?	793	1	7	7	suborq_793_4_3.wav	
+suborq	2	1	1	l	I thought they said Marion or Marvin, and Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	793	1	8	8	suborq_793_2_1.wav	
+suborq	8	4	4	l	He said that Sally was nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	793	1	9	9	suborq_793_8_4.wav	
+suborq	6	3	2	l	She read in the minutes that Marion or Jeremy, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	793	1	10	10	suborq_793_6_2.wav	
+suborq	3	2	1	r	You said that Megan, and Lauren or Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	793	1	11	11	suborq_793_3_1.wav	
+suborq	5	3	3	r	She read in the minutes that Jeremy, or Benjamin and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	793	1	12	12	suborq_793_5_3.wav	
+suborq	4	2	4	l	You said that Dillon would help. But now it turns out that Megan and Lauren, or Morgan would help?	793	1	13	13	suborq_793_4_4.wav	
+suborq	7	4	1	r	He said that Marjorie, and Logan or Sally were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	793	1	14	14	suborq_793_7_1.wav	
+suborq	2	1	2	l	I thought they said Marion or Sarah, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	793	1	15	15	suborq_793_2_2.wav	
+suborq	1	1	3	r	I thought they said Sarah, or Marvin and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	793	1	16	16	suborq_793_1_3.wav	
+suborq	8	4	2	l	He said that Marjorie and Sally, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	793	1	17	17	suborq_793_8_2.wav	
+suborq	3	2	3	r	You said that Dillon, and Lauren or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	793	1	18	18	suborq_793_3_3.wav	
+suborq	6	3	4	l	She read in the minutes that Jeremy has to go. But it actually says that Marion or Benjamin, and Lillian have to go?	793	1	19	19	suborq_793_6_4.wav	
+suborq	5	3	1	r	She read in the minutes that Marion, or Benjamin and Jeremy have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	793	1	20	20	suborq_793_5_1.wav	
+suborq	4	2	2	l	You said that Megan and Dillon, or Morgan would help.  But now it turns out that Megan and Lauren, or Morgan would help?	793	1	21	21	suborq_793_4_2.wav	
+suborq	1	1	1	r	I thought they said Marion, or Marvin and Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	793	1	22	22	suborq_793_1_1.wav	
+suborq	2	1	4	l	I thought they said Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	793	1	23	23	suborq_793_2_4.wav	
+suborq	7	4	3	r	He said that Sally, and Logan or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	793	1	24	24	suborq_793_7_3.wav	
+suborq	6	3	3	l	She read in the minutes that Jeremy or Benjamin, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	793	1	25	25	suborq_793_6_3.wav	
+suborq	5	3	4	r	She read in the minutes that Jeremy has to go. But it actually says that Marion, or Benjamin and Lillian have to go?	793	1	26	26	suborq_793_5_4.wav	
+suborq	8	4	1	l	He said that Marjorie and Logan, or Sally were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	793	1	27	27	suborq_793_8_1.wav	
+suborq	3	2	2	r	You said that Megan, and Dillon or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	793	1	28	28	suborq_793_3_2.wav	
+suborq	2	1	3	l	I thought they said Sarah or Marvin, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	793	1	29	29	suborq_793_2_3.wav	
+suborq	4	2	1	l	You said that Dillon and Lauren, or Morgan would help. But now it turns out that Megan and Lauren, or Morgan would help?	793	1	30	30	suborq_793_4_1.wav	
+suborq	1	1	4	r	I thought they said Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	793	1	31	31	suborq_793_1_4.wav	
+suborq	7	4	2	r	He said that Marjorie, and Sally or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	793	1	32	32	suborq_793_7_2.wav	
+suborq	6	3	2	l	She read in the minutes that Marion or Jeremy, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1237	1	1	1	suborq_1237_6_2.wav	
+suborq	5	3	3	r	She read in the minutes that Jeremy, or Benjamin and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1237	1	2	2	suborq_1237_5_3.wav	
+suborq	3	2	1	r	You said that Megan, and Lauren or Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1237	1	3	3	suborq_1237_3_1.wav	
+suborq	8	4	4	l	He said that Sally was nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1237	1	4	4	suborq_1237_8_4.wav	
+suborq	4	2	4	l	You said that Dillon would help. But now it turns out that Megan and Lauren, or Morgan would help?	1237	1	5	5	suborq_1237_4_4.wav	
+suborq	7	4	1	r	He said that Marjorie, and Logan or Sally were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1237	1	6	6	suborq_1237_7_1.wav	
+suborq	1	1	3	r	I thought they said Sarah, or Marvin and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1237	1	7	7	suborq_1237_1_3.wav	
+suborq	2	1	2	l	I thought they said Marion or Sarah, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1237	1	8	8	suborq_1237_2_2.wav	
+suborq	1	1	4	r	I thought they said Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1237	1	9	9	suborq_1237_1_4.wav	
+suborq	8	4	1	l	He said that Marjorie and Logan, or Sally were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1237	1	10	10	suborq_1237_8_1.wav	
+suborq	7	4	2	r	He said that Marjorie, and Sally or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1237	1	11	11	suborq_1237_7_2.wav	
+suborq	6	3	3	l	She read in the minutes that Jeremy or Benjamin, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1237	1	12	12	suborq_1237_6_3.wav	
+suborq	2	1	3	l	I thought they said Sarah or Marvin, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1237	1	13	13	suborq_1237_2_3.wav	
+suborq	3	2	2	r	You said that Megan, and Dillon or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1237	1	14	14	suborq_1237_3_2.wav	
+suborq	4	2	1	l	You said that Dillon and Lauren, or Morgan would help. But now it turns out that Megan and Lauren, or Morgan would help?	1237	1	15	15	suborq_1237_4_1.wav	
+suborq	5	3	4	r	She read in the minutes that Jeremy has to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1237	1	16	16	suborq_1237_5_4.wav	
+suborq	6	3	1	l	She read in the minutes that Marion or Benjamin, and Jeremy have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1237	1	17	17	suborq_1237_6_1.wav	
+suborq	1	1	2	r	I thought they said Marion, or Sarah and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1237	1	18	18	suborq_1237_1_2.wav	
+suborq	7	4	4	r	He said that Sally was nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1237	1	19	19	suborq_1237_7_4.wav	
+suborq	8	4	3	l	He said that Sally and Logan, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1237	1	20	20	suborq_1237_8_3.wav	
+suborq	5	3	2	r	She read in the minutes that Marion, or Jeremy and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1237	1	21	21	suborq_1237_5_2.wav	
+suborq	2	1	1	l	I thought they said Marion or Marvin, and Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1237	1	22	22	suborq_1237_2_1.wav	
+suborq	4	2	3	l	You said that Megan and Lauren, or Dillon would help. But now it turns out that Morgan and Lauren, or Morgan would help?	1237	1	23	23	suborq_1237_4_3.wav	
+suborq	3	2	4	r	You said that Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1237	1	24	24	suborq_1237_3_4.wav	
+suborq	8	4	2	l	He said that Marjorie and Sally, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1237	1	25	25	suborq_1237_8_2.wav	
+suborq	3	2	3	r	You said that Dillon, and Lauren or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1237	1	26	26	suborq_1237_3_3.wav	
+suborq	6	3	4	l	She read in the minutes that Jeremy has to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1237	1	27	27	suborq_1237_6_4.wav	
+suborq	5	3	1	r	She read in the minutes that Marion, or Benjamin and Jeremy have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1237	1	28	28	suborq_1237_5_1.wav	
+suborq	2	1	4	l	I thought they said Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1237	1	29	29	suborq_1237_2_4.wav	
+suborq	7	4	3	r	He said that Sally, and Logan or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1237	1	30	30	suborq_1237_7_3.wav	
+suborq	1	1	1	r	I thought they said Marion, or Marvin and Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1237	1	31	31	suborq_1237_1_1.wav	
+suborq	4	2	2	l	You said that Megan and Dillon, or Morgan would help.  But now it turns out that Megan and Lauren, or Morgan would help?	1237	1	32	32	suborq_1237_4_2.wav	
+suborq	6	3	4	l	She read in the minutes that Jeremy has to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1224	1	1	1	suborq_1224_6_4.wav	
+suborq	8	4	2	l	He said that Marjorie and Sally, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1224	1	2	2	suborq_1224_8_2.wav	
+suborq	1	1	1	r	I thought they said Marion, or Marvin and Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1224	1	3	3	suborq_1224_1_1.wav	
+suborq	7	4	3	r	He said that Sally, and Logan or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1224	1	4	4	suborq_1224_7_3.wav	
+suborq	5	3	1	r	She read in the minutes that Marion, or Benjamin and Jeremy have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1224	1	5	5	suborq_1224_5_1.wav	
+suborq	2	1	4	l	I thought they said Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1224	1	6	6	suborq_1224_2_4.wav	
+suborq	3	2	3	r	You said that Dillon, and Lauren or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1224	1	7	7	suborq_1224_3_3.wav	
+suborq	4	2	2	l	You said that Megan and Dillon, or Morgan would help.  But now it turns out that Megan and Lauren, or Morgan would help?	1224	1	8	8	suborq_1224_4_2.wav	
+suborq	6	3	2	l	She read in the minutes that Marion or Jeremy, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1224	1	9	9	suborq_1224_6_2.wav	
+suborq	1	1	3	r	I thought they said Sarah, or Marvin and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1224	1	10	10	suborq_1224_1_3.wav	
+suborq	7	4	1	r	He said that Marjorie, and Logan or Sally were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1224	1	11	11	suborq_1224_7_1.wav	
+suborq	8	4	4	l	He said that Sally was nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1224	1	12	12	suborq_1224_8_4.wav	
+suborq	5	3	3	r	She read in the minutes that Jeremy, or Benjamin and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1224	1	13	13	suborq_1224_5_3.wav	
+suborq	2	1	2	l	I thought they said Marion or Sarah, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1224	1	14	14	suborq_1224_2_2.wav	
+suborq	4	2	4	l	You said that Dillon would help. But now it turns out that Megan and Lauren, or Morgan would help?	1224	1	15	15	suborq_1224_4_4.wav	
+suborq	3	2	1	r	You said that Megan, and Lauren or Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1224	1	16	16	suborq_1224_3_1.wav	
+suborq	3	2	4	r	You said that Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1224	1	17	17	suborq_1224_3_4.wav	
+suborq	5	3	2	r	She read in the minutes that Marion, or Jeremy and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1224	1	18	18	suborq_1224_5_2.wav	
+suborq	8	4	3	l	He said that Sally and Logan, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1224	1	19	19	suborq_1224_8_3.wav	
+suborq	6	3	1	l	She read in the minutes that Marion or Benjamin, and Jeremy have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1224	1	20	20	suborq_1224_6_1.wav	
+suborq	7	4	4	r	He said that Sally was nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1224	1	21	21	suborq_1224_7_4.wav	
+suborq	2	1	1	l	I thought they said Marion or Marvin, and Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1224	1	22	22	suborq_1224_2_1.wav	
+suborq	4	2	3	l	You said that Megan and Lauren, or Dillon would help. But now it turns out that Morgan and Lauren, or Morgan would help?	1224	1	23	23	suborq_1224_4_3.wav	
+suborq	1	1	2	r	I thought they said Marion, or Sarah and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1224	1	24	24	suborq_1224_1_2.wav	
+suborq	7	4	2	r	He said that Marjorie, and Sally or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1224	1	25	25	suborq_1224_7_2.wav	
+suborq	1	1	4	r	I thought they said Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1224	1	26	26	suborq_1224_1_4.wav	
+suborq	8	4	1	l	He said that Marjorie and Logan, or Sally were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1224	1	27	27	suborq_1224_8_1.wav	
+suborq	6	3	3	l	She read in the minutes that Jeremy or Benjamin, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1224	1	28	28	suborq_1224_6_3.wav	
+suborq	4	2	1	l	You said that Dillon and Lauren, or Morgan would help. But now it turns out that Megan and Lauren, or Morgan would help?	1224	1	29	29	suborq_1224_4_1.wav	
+suborq	3	2	2	r	You said that Megan, and Dillon or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1224	1	30	30	suborq_1224_3_2.wav	
+suborq	2	1	3	l	I thought they said Sarah or Marvin, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1224	1	31	31	suborq_1224_2_3.wav	
+suborq	5	3	4	r	She read in the minutes that Jeremy has to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1224	1	32	32	suborq_1224_5_4.wav	
+suborq	4	2	3	l	You said that Megan and Lauren, or Dillon would help. But now it turns out that Morgan and Lauren, or Morgan would help?	1240	1	1	1	suborq_1240_4_3.wav	
+suborq	2	1	1	l	I thought they said Marion or Marvin, and Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1240	1	2	2	suborq_1240_2_1.wav	
+suborq	5	3	2	r	She read in the minutes that Marion, or Jeremy and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1240	1	3	3	suborq_1240_5_2.wav	
+suborq	3	2	4	r	You said that Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1240	1	4	4	suborq_1240_3_4.wav	
+suborq	7	4	4	r	He said that Sally was nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1240	1	5	5	suborq_1240_7_4.wav	
+suborq	6	3	1	l	She read in the minutes that Marion or Benjamin, and Jeremy have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1240	1	6	6	suborq_1240_6_1.wav	
+suborq	1	1	2	r	I thought they said Marion, or Sarah and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1240	1	7	7	suborq_1240_1_2.wav	
+suborq	8	4	3	l	He said that Sally and Logan, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1240	1	8	8	suborq_1240_8_3.wav	
+suborq	7	4	1	r	He said that Marjorie, and Logan or Sally were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1240	1	9	9	suborq_1240_7_1.wav	
+suborq	1	1	3	r	I thought they said Sarah, or Marvin and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1240	1	10	10	suborq_1240_1_3.wav	
+suborq	2	1	2	l	I thought they said Marion or Sarah, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1240	1	11	11	suborq_1240_2_2.wav	
+suborq	4	2	4	l	You said that Dillon would help. But now it turns out that Megan and Lauren, or Morgan would help?	1240	1	12	12	suborq_1240_4_4.wav	
+suborq	6	3	2	l	She read in the minutes that Marion or Jeremy, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1240	1	13	13	suborq_1240_6_2.wav	
+suborq	3	2	1	r	You said that Megan, and Lauren or Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1240	1	14	14	suborq_1240_3_1.wav	
+suborq	5	3	3	r	She read in the minutes that Jeremy, or Benjamin and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1240	1	15	15	suborq_1240_5_3.wav	
+suborq	8	4	4	l	He said that Sally was nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1240	1	16	16	suborq_1240_8_4.wav	
+suborq	2	1	3	l	I thought they said Sarah or Marvin, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1240	1	17	17	suborq_1240_2_3.wav	
+suborq	3	2	2	r	You said that Megan, and Dillon or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1240	1	18	18	suborq_1240_3_2.wav	
+suborq	4	2	1	l	You said that Dillon and Lauren, or Morgan would help. But now it turns out that Megan and Lauren, or Morgan would help?	1240	1	19	19	suborq_1240_4_1.wav	
+suborq	5	3	4	r	She read in the minutes that Jeremy has to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1240	1	20	20	suborq_1240_5_4.wav	
+suborq	6	3	3	l	She read in the minutes that Jeremy or Benjamin, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1240	1	21	21	suborq_1240_6_3.wav	
+suborq	1	1	4	r	I thought they said Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1240	1	22	22	suborq_1240_1_4.wav	
+suborq	8	4	1	l	He said that Marjorie and Logan, or Sally were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1240	1	23	23	suborq_1240_8_1.wav	
+suborq	7	4	2	r	He said that Marjorie, and Sally or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1240	1	24	24	suborq_1240_7_2.wav	
+suborq	5	3	1	r	She read in the minutes that Marion, or Benjamin and Jeremy have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1240	1	25	25	suborq_1240_5_1.wav	
+suborq	2	1	4	l	I thought they said Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1240	1	26	26	suborq_1240_2_4.wav	
+suborq	3	2	3	r	You said that Dillon, and Lauren or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1240	1	27	27	suborq_1240_3_3.wav	
+suborq	4	2	2	l	You said that Megan and Dillon, or Morgan would help.  But now it turns out that Megan and Lauren, or Morgan would help?	1240	1	28	28	suborq_1240_4_2.wav	
+suborq	7	4	3	r	He said that Sally, and Logan or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1240	1	29	29	suborq_1240_7_3.wav	
+suborq	8	4	2	l	He said that Marjorie and Sally, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1240	1	30	30	suborq_1240_8_2.wav	
+suborq	1	1	1	r	I thought they said Marion, or Marvin and Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1240	1	31	31	suborq_1240_1_1.wav	
+suborq	6	3	4	l	She read in the minutes that Jeremy has to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1240	1	32	32	suborq_1240_6_4.wav	
+suborq	5	3	2	r	She read in the minutes that Marion, or Jeremy and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1241	1	1	1	suborq_1241_5_2.wav	
+suborq	3	2	4	r	You said that Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1241	1	2	2	suborq_1241_3_4.wav	
+suborq	2	1	1	l	I thought they said Marion or Marvin, and Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1241	1	3	3	suborq_1241_2_1.wav	
+suborq	4	2	3	l	You said that Megan and Lauren, or Dillon would help. But now it turns out that Morgan and Lauren, or Morgan would help?	1241	1	4	4	suborq_1241_4_3.wav	
+suborq	1	1	2	r	I thought they said Marion, or Sarah and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1241	1	5	5	suborq_1241_1_2.wav	
+suborq	8	4	3	l	He said that Sally and Logan, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1241	1	6	6	suborq_1241_8_3.wav	
+suborq	7	4	4	r	He said that Sally was nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1241	1	7	7	suborq_1241_7_4.wav	
+suborq	6	3	1	l	She read in the minutes that Marion or Benjamin, and Jeremy have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1241	1	8	8	suborq_1241_6_1.wav	
+suborq	4	2	2	l	You said that Megan and Dillon, or Morgan would help.  But now it turns out that Megan and Lauren, or Morgan would help?	1241	1	9	9	suborq_1241_4_2.wav	
+suborq	1	1	1	r	I thought they said Marion, or Marvin and Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1241	1	10	10	suborq_1241_1_1.wav	
+suborq	7	4	3	r	He said that Sally, and Logan or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1241	1	11	11	suborq_1241_7_3.wav	
+suborq	2	1	4	l	I thought they said Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1241	1	12	12	suborq_1241_2_4.wav	
+suborq	5	3	1	r	She read in the minutes that Marion, or Benjamin and Jeremy have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1241	1	13	13	suborq_1241_5_1.wav	
+suborq	3	2	3	r	You said that Dillon, and Lauren or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1241	1	14	14	suborq_1241_3_3.wav	
+suborq	8	4	2	l	He said that Marjorie and Sally, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1241	1	15	15	suborq_1241_8_2.wav	
+suborq	6	3	4	l	She read in the minutes that Jeremy has to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1241	1	16	16	suborq_1241_6_4.wav	
+suborq	3	2	2	r	You said that Megan, and Dillon or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1241	1	17	17	suborq_1241_3_2.wav	
+suborq	5	3	4	r	She read in the minutes that Jeremy has to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1241	1	18	18	suborq_1241_5_4.wav	
+suborq	2	1	3	l	I thought they said Sarah or Marvin, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1241	1	19	19	suborq_1241_2_3.wav	
+suborq	4	2	1	l	You said that Dillon and Lauren, or Morgan would help. But now it turns out that Megan and Lauren, or Morgan would help?	1241	1	20	20	suborq_1241_4_1.wav	
+suborq	6	3	3	l	She read in the minutes that Jeremy or Benjamin, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1241	1	21	21	suborq_1241_6_3.wav	
+suborq	1	1	4	r	I thought they said Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1241	1	22	22	suborq_1241_1_4.wav	
+suborq	7	4	2	r	He said that Marjorie, and Sally or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1241	1	23	23	suborq_1241_7_2.wav	
+suborq	8	4	1	l	He said that Marjorie and Logan, or Sally were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1241	1	24	24	suborq_1241_8_1.wav	
+suborq	5	3	3	r	She read in the minutes that Jeremy, or Benjamin and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1241	1	25	25	suborq_1241_5_3.wav	
+suborq	4	2	4	l	You said that Dillon would help. But now it turns out that Megan and Lauren, or Morgan would help?	1241	1	26	26	suborq_1241_4_4.wav	
+suborq	3	2	1	r	You said that Megan, and Lauren or Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1241	1	27	27	suborq_1241_3_1.wav	
+suborq	2	1	2	l	I thought they said Marion or Sarah, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1241	1	28	28	suborq_1241_2_2.wav	
+suborq	7	4	1	r	He said that Marjorie, and Logan or Sally were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1241	1	29	29	suborq_1241_7_1.wav	
+suborq	6	3	2	l	She read in the minutes that Marion or Jeremy, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1241	1	30	30	suborq_1241_6_2.wav	
+suborq	8	4	4	l	He said that Sally was nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1241	1	31	31	suborq_1241_8_4.wav	
+suborq	1	1	3	r	I thought they said Sarah, or Marvin and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1241	1	32	32	suborq_1241_1_3.wav	
+suborq	7	4	4	r	He said that Sally was nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1243	1	1	1	suborq_1243_7_4.wav	
+suborq	1	1	2	r	I thought they said Marion, or Sarah and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1243	1	2	2	suborq_1243_1_2.wav	
+suborq	2	1	1	l	I thought they said Marion or Marvin, and Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1243	1	3	3	suborq_1243_2_1.wav	
+suborq	4	2	3	l	You said that Megan and Lauren, or Dillon would help. But now it turns out that Morgan and Lauren, or Morgan would help?	1243	1	4	4	suborq_1243_4_3.wav	
+suborq	5	3	2	r	She read in the minutes that Marion, or Jeremy and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1243	1	5	5	suborq_1243_5_2.wav	
+suborq	3	2	4	r	You said that Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1243	1	6	6	suborq_1243_3_4.wav	
+suborq	6	3	1	l	She read in the minutes that Marion or Benjamin, and Jeremy have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1243	1	7	7	suborq_1243_6_1.wav	
+suborq	8	4	3	l	He said that Sally and Logan, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1243	1	8	8	suborq_1243_8_3.wav	
+suborq	4	2	1	l	You said that Dillon and Lauren, or Morgan would help. But now it turns out that Megan and Lauren, or Morgan would help?	1243	1	9	9	suborq_1243_4_1.wav	
+suborq	1	1	4	r	I thought they said Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1243	1	10	10	suborq_1243_1_4.wav	
+suborq	2	1	3	l	I thought they said Sarah or Marvin, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1243	1	11	11	suborq_1243_2_3.wav	
+suborq	7	4	2	r	He said that Marjorie, and Sally or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1243	1	12	12	suborq_1243_7_2.wav	
+suborq	8	4	1	l	He said that Marjorie and Logan, or Sally were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1243	1	13	13	suborq_1243_8_1.wav	
+suborq	5	3	4	r	She read in the minutes that Jeremy has to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1243	1	14	14	suborq_1243_5_4.wav	
+suborq	3	2	2	r	You said that Megan, and Dillon or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1243	1	15	15	suborq_1243_3_2.wav	
+suborq	6	3	3	l	She read in the minutes that Jeremy or Benjamin, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1243	1	16	16	suborq_1243_6_3.wav	
+suborq	2	1	4	l	I thought they said Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1243	1	17	17	suborq_1243_2_4.wav	
+suborq	4	2	2	l	You said that Megan and Dillon, or Morgan would help.  But now it turns out that Megan and Lauren, or Morgan would help?	1243	1	18	18	suborq_1243_4_2.wav	
+suborq	3	2	3	r	You said that Dillon, and Lauren or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1243	1	19	19	suborq_1243_3_3.wav	
+suborq	5	3	1	r	She read in the minutes that Marion, or Benjamin and Jeremy have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1243	1	20	20	suborq_1243_5_1.wav	
+suborq	8	4	2	l	He said that Marjorie and Sally, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1243	1	21	21	suborq_1243_8_2.wav	
+suborq	6	3	4	l	She read in the minutes that Jeremy has to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1243	1	22	22	suborq_1243_6_4.wav	
+suborq	7	4	3	r	He said that Sally, and Logan or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1243	1	23	23	suborq_1243_7_3.wav	
+suborq	1	1	1	r	I thought they said Marion, or Marvin and Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1243	1	24	24	suborq_1243_1_1.wav	
+suborq	1	1	3	r	I thought they said Sarah, or Marvin and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1243	1	25	25	suborq_1243_1_3.wav	
+suborq	2	1	2	l	I thought they said Marion or Sarah, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1243	1	26	26	suborq_1243_2_2.wav	
+suborq	4	2	4	l	You said that Dillon would help. But now it turns out that Megan and Lauren, or Morgan would help?	1243	1	27	27	suborq_1243_4_4.wav	
+suborq	7	4	1	r	He said that Marjorie, and Logan or Sally were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1243	1	28	28	suborq_1243_7_1.wav	
+suborq	6	3	2	l	She read in the minutes that Marion or Jeremy, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1243	1	29	29	suborq_1243_6_2.wav	
+suborq	5	3	3	r	She read in the minutes that Jeremy, or Benjamin and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1243	1	30	30	suborq_1243_5_3.wav	
+suborq	3	2	1	r	You said that Megan, and Lauren or Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1243	1	31	31	suborq_1243_3_1.wav	
+suborq	8	4	4	l	He said that Sally was nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1243	1	32	32	suborq_1243_8_4.wav	
+suborq	4	2	3	l	You said that Megan and Lauren, or Dillon would help. But now it turns out that Morgan and Lauren, or Morgan would help?	1244	1	1	1	suborq_1244_4_3.wav	
+suborq	2	1	1	l	I thought they said Marion or Marvin, and Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1244	1	2	2	suborq_1244_2_1.wav	
+suborq	5	3	2	r	She read in the minutes that Marion, or Jeremy and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1244	1	3	3	suborq_1244_5_2.wav	
+suborq	3	2	4	r	You said that Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1244	1	4	4	suborq_1244_3_4.wav	
+suborq	7	4	4	r	He said that Sally was nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1244	1	5	5	suborq_1244_7_4.wav	
+suborq	6	3	1	l	She read in the minutes that Marion or Benjamin, and Jeremy have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1244	1	6	6	suborq_1244_6_1.wav	
+suborq	1	1	2	r	I thought they said Marion, or Sarah and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1244	1	7	7	suborq_1244_1_2.wav	
+suborq	8	4	3	l	He said that Sally and Logan, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1244	1	8	8	suborq_1244_8_3.wav	
+suborq	7	4	1	r	He said that Marjorie, and Logan or Sally were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1244	1	9	9	suborq_1244_7_1.wav	
+suborq	1	1	3	r	I thought they said Sarah, or Marvin and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1244	1	10	10	suborq_1244_1_3.wav	
+suborq	2	1	2	l	I thought they said Marion or Sarah, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1244	1	11	11	suborq_1244_2_2.wav	
+suborq	4	2	4	l	You said that Dillon would help. But now it turns out that Megan and Lauren, or Morgan would help?	1244	1	12	12	suborq_1244_4_4.wav	
+suborq	6	3	2	l	She read in the minutes that Marion or Jeremy, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1244	1	13	13	suborq_1244_6_2.wav	
+suborq	3	2	1	r	You said that Megan, and Lauren or Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1244	1	14	14	suborq_1244_3_1.wav	
+suborq	5	3	3	r	She read in the minutes that Jeremy, or Benjamin and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1244	1	15	15	suborq_1244_5_3.wav	
+suborq	8	4	4	l	He said that Sally was nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1244	1	16	16	suborq_1244_8_4.wav	
+suborq	2	1	3	l	I thought they said Sarah or Marvin, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1244	1	17	17	suborq_1244_2_3.wav	
+suborq	3	2	2	r	You said that Megan, and Dillon or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1244	1	18	18	suborq_1244_3_2.wav	
+suborq	4	2	1	l	You said that Dillon and Lauren, or Morgan would help. But now it turns out that Megan and Lauren, or Morgan would help?	1244	1	19	19	suborq_1244_4_1.wav	
+suborq	5	3	4	r	She read in the minutes that Jeremy has to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1244	1	20	20	suborq_1244_5_4.wav	
+suborq	6	3	3	l	She read in the minutes that Jeremy or Benjamin, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1244	1	21	21	suborq_1244_6_3.wav	
+suborq	1	1	4	r	I thought they said Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1244	1	22	22	suborq_1244_1_4.wav	
+suborq	8	4	1	l	He said that Marjorie and Logan, or Sally were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1244	1	23	23	suborq_1244_8_1.wav	
+suborq	7	4	2	r	He said that Marjorie, and Sally or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1244	1	24	24	suborq_1244_7_2.wav	
+suborq	5	3	1	r	She read in the minutes that Marion, or Benjamin and Jeremy have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1244	1	25	25	suborq_1244_5_1.wav	
+suborq	2	1	4	l	I thought they said Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1244	1	26	26	suborq_1244_2_4.wav	
+suborq	3	2	3	r	You said that Dillon, and Lauren or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1244	1	27	27	suborq_1244_3_3.wav	
+suborq	4	2	2	l	You said that Megan and Dillon, or Morgan would help.  But now it turns out that Megan and Lauren, or Morgan would help?	1244	1	28	28	suborq_1244_4_2.wav	
+suborq	7	4	3	r	He said that Sally, and Logan or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1244	1	29	29	suborq_1244_7_3.wav	
+suborq	8	4	2	l	He said that Marjorie and Sally, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1244	1	30	30	suborq_1244_8_2.wav	
+suborq	1	1	1	r	I thought they said Marion, or Marvin and Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1244	1	31	31	suborq_1244_1_1.wav	
+suborq	6	3	4	l	She read in the minutes that Jeremy has to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1244	1	32	32	suborq_1244_6_4.wav	
+suborq	1	1	1	r	I thought they said Marion, or Marvin and Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1154	1	1	1	suborq_1154_1_1.wav	
+suborq	7	4	3	r	He said that Sally, and Logan or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1154	1	2	2	suborq_1154_7_3.wav	
+suborq	6	3	4	l	She read in the minutes that Jeremy has to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1154	1	3	3	suborq_1154_6_4.wav	
+suborq	8	4	2	l	He said that Marjorie and Sally, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1154	1	4	4	suborq_1154_8_2.wav	
+suborq	5	3	1	r	She read in the minutes that Marion, or Benjamin and Jeremy have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1154	1	5	5	suborq_1154_5_1.wav	
+suborq	3	2	3	r	You said that Dillon, and Lauren or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1154	1	6	6	suborq_1154_3_3.wav	
+suborq	2	1	4	l	I thought they said Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1154	1	7	7	suborq_1154_2_4.wav	
+suborq	4	2	2	l	You said that Megan and Dillon, or Morgan would help.  But now it turns out that Megan and Lauren, or Morgan would help?	1154	1	8	8	suborq_1154_4_2.wav	
+suborq	1	1	2	r	I thought they said Marion, or Sarah and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1154	1	9	9	suborq_1154_1_2.wav	
+suborq	8	4	3	l	He said that Sally and Logan, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1154	1	10	10	suborq_1154_8_3.wav	
+suborq	6	3	1	l	She read in the minutes that Marion or Benjamin, and Jeremy have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1154	1	11	11	suborq_1154_6_1.wav	
+suborq	7	4	4	r	He said that Sally was nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1154	1	12	12	suborq_1154_7_4.wav	
+suborq	4	2	3	l	You said that Megan and Lauren, or Dillon would help. But now it turns out that Morgan and Lauren, or Morgan would help?	1154	1	13	13	suborq_1154_4_3.wav	
+suborq	3	2	4	r	You said that Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1154	1	14	14	suborq_1154_3_4.wav	
+suborq	2	1	1	l	I thought they said Marion or Marvin, and Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1154	1	15	15	suborq_1154_2_1.wav	
+suborq	5	3	2	r	She read in the minutes that Marion, or Jeremy and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1154	1	16	16	suborq_1154_5_2.wav	
+suborq	6	3	2	l	She read in the minutes that Marion or Jeremy, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1154	1	17	17	suborq_1154_6_2.wav	
+suborq	5	3	3	r	She read in the minutes that Jeremy, or Benjamin and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1154	1	18	18	suborq_1154_5_3.wav	
+suborq	8	4	4	l	He said that Sally was nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1154	1	19	19	suborq_1154_8_4.wav	
+suborq	3	2	1	r	You said that Megan, and Lauren or Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1154	1	20	20	suborq_1154_3_1.wav	
+suborq	7	4	1	r	He said that Marjorie, and Logan or Sally were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1154	1	21	21	suborq_1154_7_1.wav	
+suborq	2	1	2	l	I thought they said Marion or Sarah, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1154	1	22	22	suborq_1154_2_2.wav	
+suborq	1	1	3	r	I thought they said Sarah, or Marvin and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1154	1	23	23	suborq_1154_1_3.wav	
+suborq	4	2	4	l	You said that Dillon would help. But now it turns out that Megan and Lauren, or Morgan would help?	1154	1	24	24	suborq_1154_4_4.wav	
+suborq	3	2	2	r	You said that Megan, and Dillon or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1154	1	25	25	suborq_1154_3_2.wav	
+suborq	6	3	3	l	She read in the minutes that Jeremy or Benjamin, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1154	1	26	26	suborq_1154_6_3.wav	
+suborq	5	3	4	r	She read in the minutes that Jeremy has to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1154	1	27	27	suborq_1154_5_4.wav	
+suborq	8	4	1	l	He said that Marjorie and Logan, or Sally were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1154	1	28	28	suborq_1154_8_1.wav	
+suborq	7	4	2	r	He said that Marjorie, and Sally or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1154	1	29	29	suborq_1154_7_2.wav	
+suborq	1	1	4	r	I thought they said Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1154	1	30	30	suborq_1154_1_4.wav	
+suborq	2	1	3	l	I thought they said Sarah or Marvin, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1154	1	31	31	suborq_1154_2_3.wav	
+suborq	4	2	1	l	You said that Dillon and Lauren, or Morgan would help. But now it turns out that Megan and Lauren, or Morgan would help?	1154	1	32	32	suborq_1154_4_1.wav	
+suborq	5	3	3	r	She read in the minutes that Jeremy, or Benjamin and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1067	1	1	1	suborq_1067_5_3.wav	
+suborq	2	1	2	l	I thought they said Marion or Sarah, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1067	1	2	2	suborq_1067_2_2.wav	
+suborq	4	2	4	l	You said that Dillon would help. But now it turns out that Megan and Lauren, or Morgan would help?	1067	1	3	3	suborq_1067_4_4.wav	
+suborq	3	2	1	r	You said that Megan, and Lauren or Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1067	1	4	4	suborq_1067_3_1.wav	
+suborq	6	3	2	l	She read in the minutes that Marion or Jeremy, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1067	1	5	5	suborq_1067_6_2.wav	
+suborq	1	1	3	r	I thought they said Sarah, or Marvin and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1067	1	6	6	suborq_1067_1_3.wav	
+suborq	7	4	1	r	He said that Marjorie, and Logan or Sally were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1067	1	7	7	suborq_1067_7_1.wav	
+suborq	8	4	4	l	He said that Sally was nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1067	1	8	8	suborq_1067_8_4.wav	
+suborq	7	4	2	r	He said that Marjorie, and Sally or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1067	1	9	9	suborq_1067_7_2.wav	
+suborq	2	1	3	l	I thought they said Sarah or Marvin, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1067	1	10	10	suborq_1067_2_3.wav	
+suborq	1	1	4	r	I thought they said Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1067	1	11	11	suborq_1067_1_4.wav	
+suborq	4	2	1	l	You said that Dillon and Lauren, or Morgan would help. But now it turns out that Megan and Lauren, or Morgan would help?	1067	1	12	12	suborq_1067_4_1.wav	
+suborq	6	3	3	l	She read in the minutes that Jeremy or Benjamin, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1067	1	13	13	suborq_1067_6_3.wav	
+suborq	5	3	4	r	She read in the minutes that Jeremy has to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1067	1	14	14	suborq_1067_5_4.wav	
+suborq	3	2	2	r	You said that Megan, and Dillon or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1067	1	15	15	suborq_1067_3_2.wav	
+suborq	8	4	1	l	He said that Marjorie and Logan, or Sally were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1067	1	16	16	suborq_1067_8_1.wav	
+suborq	4	2	3	l	You said that Megan and Lauren, or Dillon would help. But now it turns out that Morgan and Lauren, or Morgan would help?	1067	1	17	17	suborq_1067_4_3.wav	
+suborq	5	3	2	r	She read in the minutes that Marion, or Jeremy and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1067	1	18	18	suborq_1067_5_2.wav	
+suborq	3	2	4	r	You said that Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1067	1	19	19	suborq_1067_3_4.wav	
+suborq	2	1	1	l	I thought they said Marion or Marvin, and Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1067	1	20	20	suborq_1067_2_1.wav	
+suborq	6	3	1	l	She read in the minutes that Marion or Benjamin, and Jeremy have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1067	1	21	21	suborq_1067_6_1.wav	
+suborq	7	4	4	r	He said that Sally was nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1067	1	22	22	suborq_1067_7_4.wav	
+suborq	1	1	2	r	I thought they said Marion, or Sarah and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1067	1	23	23	suborq_1067_1_2.wav	
+suborq	8	4	3	l	He said that Sally and Logan, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1067	1	24	24	suborq_1067_8_3.wav	
+suborq	4	2	2	l	You said that Megan and Dillon, or Morgan would help.  But now it turns out that Megan and Lauren, or Morgan would help?	1067	1	25	25	suborq_1067_4_2.wav	
+suborq	1	1	1	r	I thought they said Marion, or Marvin and Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1067	1	26	26	suborq_1067_1_1.wav	
+suborq	2	1	4	l	I thought they said Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1067	1	27	27	suborq_1067_2_4.wav	
+suborq	7	4	3	r	He said that Sally, and Logan or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1067	1	28	28	suborq_1067_7_3.wav	
+suborq	6	3	4	l	She read in the minutes that Jeremy has to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1067	1	29	29	suborq_1067_6_4.wav	
+suborq	5	3	1	r	She read in the minutes that Marion, or Benjamin and Jeremy have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1067	1	30	30	suborq_1067_5_1.wav	
+suborq	8	4	2	l	He said that Marjorie and Sally, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1067	1	31	31	suborq_1067_8_2.wav	
+suborq	3	2	3	r	You said that Dillon, and Lauren or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1067	1	32	32	suborq_1067_3_3.wav	
+suborq	4	2	4	l	You said that Dillon would help. But now it turns out that Megan and Lauren, or Morgan would help?	1251	1	1	1	suborq_1251_4_4.wav	
+suborq	2	1	2	l	I thought they said Marion or Sarah, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1251	1	2	2	suborq_1251_2_2.wav	
+suborq	7	4	1	r	He said that Marjorie, and Logan or Sally were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1251	1	3	3	suborq_1251_7_1.wav	
+suborq	1	1	3	r	I thought they said Sarah, or Marvin and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1251	1	4	4	suborq_1251_1_3.wav	
+suborq	5	3	3	r	She read in the minutes that Jeremy, or Benjamin and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1251	1	5	5	suborq_1251_5_3.wav	
+suborq	8	4	4	l	He said that Sally was nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1251	1	6	6	suborq_1251_8_4.wav	
+suborq	6	3	2	l	She read in the minutes that Marion or Jeremy, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1251	1	7	7	suborq_1251_6_2.wav	
+suborq	3	2	1	r	You said that Megan, and Lauren or Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1251	1	8	8	suborq_1251_3_1.wav	
+suborq	5	3	2	r	She read in the minutes that Marion, or Jeremy and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1251	1	9	9	suborq_1251_5_2.wav	
+suborq	4	2	3	l	You said that Megan and Lauren, or Dillon would help. But now it turns out that Morgan and Lauren, or Morgan would help?	1251	1	10	10	suborq_1251_4_3.wav	
+suborq	2	1	1	l	I thought they said Marion or Marvin, and Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1251	1	11	11	suborq_1251_2_1.wav	
+suborq	3	2	4	r	You said that Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1251	1	12	12	suborq_1251_3_4.wav	
+suborq	7	4	4	r	He said that Sally was nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1251	1	13	13	suborq_1251_7_4.wav	
+suborq	6	3	1	l	She read in the minutes that Marion or Benjamin, and Jeremy have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1251	1	14	14	suborq_1251_6_1.wav	
+suborq	8	4	3	l	He said that Sally and Logan, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1251	1	15	15	suborq_1251_8_3.wav	
+suborq	1	1	2	r	I thought they said Marion, or Sarah and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1251	1	16	16	suborq_1251_1_2.wav	
+suborq	5	3	4	r	She read in the minutes that Jeremy has to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1251	1	17	17	suborq_1251_5_4.wav	
+suborq	3	2	2	r	You said that Megan, and Dillon or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1251	1	18	18	suborq_1251_3_2.wav	
+suborq	4	2	1	l	You said that Dillon and Lauren, or Morgan would help. But now it turns out that Megan and Lauren, or Morgan would help?	1251	1	19	19	suborq_1251_4_1.wav	
+suborq	2	1	3	l	I thought they said Sarah or Marvin, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1251	1	20	20	suborq_1251_2_3.wav	
+suborq	7	4	2	r	He said that Marjorie, and Sally or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1251	1	21	21	suborq_1251_7_2.wav	
+suborq	6	3	3	l	She read in the minutes that Jeremy or Benjamin, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1251	1	22	22	suborq_1251_6_3.wav	
+suborq	1	1	4	r	I thought they said Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1251	1	23	23	suborq_1251_1_4.wav	
+suborq	8	4	1	l	He said that Marjorie and Logan, or Sally were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1251	1	24	24	suborq_1251_8_1.wav	
+suborq	4	2	2	l	You said that Megan and Dillon, or Morgan would help.  But now it turns out that Megan and Lauren, or Morgan would help?	1251	1	25	25	suborq_1251_4_2.wav	
+suborq	1	1	1	r	I thought they said Marion, or Marvin and Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1251	1	26	26	suborq_1251_1_1.wav	
+suborq	2	1	4	l	I thought they said Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1251	1	27	27	suborq_1251_2_4.wav	
+suborq	7	4	3	r	He said that Sally, and Logan or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1251	1	28	28	suborq_1251_7_3.wav	
+suborq	5	3	1	r	She read in the minutes that Marion, or Benjamin and Jeremy have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1251	1	29	29	suborq_1251_5_1.wav	
+suborq	8	4	2	l	He said that Marjorie and Sally, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1251	1	30	30	suborq_1251_8_2.wav	
+suborq	3	2	3	r	You said that Dillon, and Lauren or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1251	1	31	31	suborq_1251_3_3.wav	
+suborq	6	3	4	l	She read in the minutes that Jeremy has to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1251	1	32	32	suborq_1251_6_4.wav	
+suborq	1	1	3	r	I thought they said Sarah, or Marvin and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1252	1	1	1	suborq_1252_1_3.wav	
+suborq	2	1	2	l	I thought they said Marion or Sarah, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1252	1	2	2	suborq_1252_2_2.wav	
+suborq	7	4	1	r	He said that Marjorie, and Logan or Sally were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1252	1	3	3	suborq_1252_7_1.wav	
+suborq	4	2	4	l	You said that Dillon would help. But now it turns out that Megan and Lauren, or Morgan would help?	1252	1	4	4	suborq_1252_4_4.wav	
+suborq	6	3	2	l	She read in the minutes that Marion or Jeremy, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1252	1	5	5	suborq_1252_6_2.wav	
+suborq	3	2	1	r	You said that Megan, and Lauren or Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1252	1	6	6	suborq_1252_3_1.wav	
+suborq	5	3	3	r	She read in the minutes that Jeremy, or Benjamin and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1252	1	7	7	suborq_1252_5_3.wav	
+suborq	8	4	4	l	He said that Sally was nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1252	1	8	8	suborq_1252_8_4.wav	
+suborq	3	2	2	r	You said that Megan, and Dillon or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1252	1	9	9	suborq_1252_3_2.wav	
+suborq	2	1	3	l	I thought they said Sarah or Marvin, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1252	1	10	10	suborq_1252_2_3.wav	
+suborq	5	3	4	r	She read in the minutes that Jeremy has to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1252	1	11	11	suborq_1252_5_4.wav	
+suborq	4	2	1	l	You said that Dillon and Lauren, or Morgan would help. But now it turns out that Megan and Lauren, or Morgan would help?	1252	1	12	12	suborq_1252_4_1.wav	
+suborq	8	4	1	l	He said that Marjorie and Logan, or Sally were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1252	1	13	13	suborq_1252_8_1.wav	
+suborq	6	3	3	l	She read in the minutes that Jeremy or Benjamin, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1252	1	14	14	suborq_1252_6_3.wav	
+suborq	7	4	2	r	He said that Marjorie, and Sally or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1252	1	15	15	suborq_1252_7_2.wav	
+suborq	1	1	4	r	I thought they said Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1252	1	16	16	suborq_1252_1_4.wav	
+suborq	2	1	1	l	I thought they said Marion or Marvin, and Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1252	1	17	17	suborq_1252_2_1.wav	
+suborq	1	1	2	r	I thought they said Marion, or Sarah and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1252	1	18	18	suborq_1252_1_2.wav	
+suborq	7	4	4	r	He said that Sally was nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1252	1	19	19	suborq_1252_7_4.wav	
+suborq	4	2	3	l	You said that Megan and Lauren, or Dillon would help. But now it turns out that Morgan and Lauren, or Morgan would help?	1252	1	20	20	suborq_1252_4_3.wav	
+suborq	8	4	3	l	He said that Sally and Logan, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1252	1	21	21	suborq_1252_8_3.wav	
+suborq	6	3	1	l	She read in the minutes that Marion or Benjamin, and Jeremy have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1252	1	22	22	suborq_1252_6_1.wav	
+suborq	5	3	2	r	She read in the minutes that Marion, or Jeremy and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1252	1	23	23	suborq_1252_5_2.wav	
+suborq	3	2	4	r	You said that Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1252	1	24	24	suborq_1252_3_4.wav	
+suborq	3	2	3	r	You said that Dillon, and Lauren or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1252	1	25	25	suborq_1252_3_3.wav	
+suborq	2	1	4	l	I thought they said Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1252	1	26	26	suborq_1252_2_4.wav	
+suborq	4	2	2	l	You said that Megan and Dillon, or Morgan would help.  But now it turns out that Megan and Lauren, or Morgan would help?	1252	1	27	27	suborq_1252_4_2.wav	
+suborq	5	3	1	r	She read in the minutes that Marion, or Benjamin and Jeremy have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1252	1	28	28	suborq_1252_5_1.wav	
+suborq	8	4	2	l	He said that Marjorie and Sally, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1252	1	29	29	suborq_1252_8_2.wav	
+suborq	7	4	3	r	He said that Sally, and Logan or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1252	1	30	30	suborq_1252_7_3.wav	
+suborq	1	1	1	r	I thought they said Marion, or Marvin and Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1252	1	31	31	suborq_1252_1_1.wav	
+suborq	6	3	4	l	She read in the minutes that Jeremy has to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1252	1	32	32	suborq_1252_6_4.wav	
+suborq	1	1	3	r	I thought they said Sarah, or Marvin and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1253	1	1	1	suborq_1253_1_3.wav	
+suborq	2	1	2	l	I thought they said Marion or Sarah, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1253	1	2	2	suborq_1253_2_2.wav	
+suborq	7	4	1	r	He said that Marjorie, and Logan or Sally were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1253	1	3	3	suborq_1253_7_1.wav	
+suborq	4	2	4	l	You said that Dillon would help. But now it turns out that Megan and Lauren, or Morgan would help?	1253	1	4	4	suborq_1253_4_4.wav	
+suborq	3	2	1	r	You said that Megan, and Lauren or Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1253	1	5	5	suborq_1253_3_1.wav	
+suborq	6	3	2	l	She read in the minutes that Marion or Jeremy, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1253	1	6	6	suborq_1253_6_2.wav	
+suborq	8	4	4	l	He said that Sally was nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1253	1	7	7	suborq_1253_8_4.wav	
+suborq	5	3	3	r	She read in the minutes that Jeremy, or Benjamin and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1253	1	8	8	suborq_1253_5_3.wav	
+suborq	1	1	1	r	I thought they said Marion, or Marvin and Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1253	1	9	9	suborq_1253_1_1.wav	
+suborq	2	1	4	l	I thought they said Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1253	1	10	10	suborq_1253_2_4.wav	
+suborq	4	2	2	l	You said that Megan and Dillon, or Morgan would help.  But now it turns out that Megan and Lauren, or Morgan would help?	1253	1	11	11	suborq_1253_4_2.wav	
+suborq	7	4	3	r	He said that Sally, and Logan or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1253	1	12	12	suborq_1253_7_3.wav	
+suborq	5	3	1	r	She read in the minutes that Marion, or Benjamin and Jeremy have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1253	1	13	13	suborq_1253_5_1.wav	
+suborq	3	2	3	r	You said that Dillon, and Lauren or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1253	1	14	14	suborq_1253_3_3.wav	
+suborq	6	3	4	l	She read in the minutes that Jeremy has to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1253	1	15	15	suborq_1253_6_4.wav	
+suborq	8	4	2	l	He said that Marjorie and Sally, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1253	1	16	16	suborq_1253_8_2.wav	
+suborq	7	4	4	r	He said that Sally was nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1253	1	17	17	suborq_1253_7_4.wav	
+suborq	4	2	3	l	You said that Megan and Lauren, or Dillon would help. But now it turns out that Morgan and Lauren, or Morgan would help?	1253	1	18	18	suborq_1253_4_3.wav	
+suborq	2	1	1	l	I thought they said Marion or Marvin, and Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1253	1	19	19	suborq_1253_2_1.wav	
+suborq	1	1	2	r	I thought they said Marion, or Sarah and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1253	1	20	20	suborq_1253_1_2.wav	
+suborq	5	3	2	r	She read in the minutes that Marion, or Jeremy and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1253	1	21	21	suborq_1253_5_2.wav	
+suborq	6	3	1	l	She read in the minutes that Marion or Benjamin, and Jeremy have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1253	1	22	22	suborq_1253_6_1.wav	
+suborq	8	4	3	l	He said that Sally and Logan, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1253	1	23	23	suborq_1253_8_3.wav	
+suborq	3	2	4	r	You said that Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1253	1	24	24	suborq_1253_3_4.wav	
+suborq	1	1	4	r	I thought they said Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1253	1	25	25	suborq_1253_1_4.wav	
+suborq	2	1	3	l	I thought they said Sarah or Marvin, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1253	1	26	26	suborq_1253_2_3.wav	
+suborq	4	2	1	l	You said that Dillon and Lauren, or Morgan would help. But now it turns out that Megan and Lauren, or Morgan would help?	1253	1	27	27	suborq_1253_4_1.wav	
+suborq	7	4	2	r	He said that Marjorie, and Sally or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1253	1	28	28	suborq_1253_7_2.wav	
+suborq	8	4	1	l	He said that Marjorie and Logan, or Sally were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1253	1	29	29	suborq_1253_8_1.wav	
+suborq	6	3	3	l	She read in the minutes that Jeremy or Benjamin, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1253	1	30	30	suborq_1253_6_3.wav	
+suborq	3	2	2	r	You said that Megan, and Dillon or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1253	1	31	31	suborq_1253_3_2.wav	
+suborq	5	3	4	r	She read in the minutes that Jeremy has to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1253	1	32	32	suborq_1253_5_4.wav	
+suborq	2	1	2	l	I thought they said Marion or Sarah, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1254	1	1	1	suborq_1254_2_2.wav	
+suborq	4	2	4	l	You said that Dillon would help. But now it turns out that Megan and Lauren, or Morgan would help?	1254	1	2	2	suborq_1254_4_4.wav	
+suborq	1	1	3	r	I thought they said Sarah, or Marvin and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1254	1	3	3	suborq_1254_1_3.wav	
+suborq	7	4	1	r	He said that Marjorie, and Logan or Sally were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1254	1	4	4	suborq_1254_7_1.wav	
+suborq	8	4	4	l	He said that Sally was nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1254	1	5	5	suborq_1254_8_4.wav	
+suborq	6	3	2	l	She read in the minutes that Marion or Jeremy, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1254	1	6	6	suborq_1254_6_2.wav	
+suborq	5	3	3	r	She read in the minutes that Jeremy, or Benjamin and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1254	1	7	7	suborq_1254_5_3.wav	
+suborq	3	2	1	r	You said that Megan, and Lauren or Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1254	1	8	8	suborq_1254_3_1.wav	
+suborq	3	2	3	r	You said that Dillon, and Lauren or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1254	1	9	9	suborq_1254_3_3.wav	
+suborq	4	2	2	l	You said that Megan and Dillon, or Morgan would help.  But now it turns out that Megan and Lauren, or Morgan would help?	1254	1	10	10	suborq_1254_4_2.wav	
+suborq	2	1	4	l	I thought they said Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1254	1	11	11	suborq_1254_2_4.wav	
+suborq	5	3	1	r	She read in the minutes that Marion, or Benjamin and Jeremy have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1254	1	12	12	suborq_1254_5_1.wav	
+suborq	1	1	1	r	I thought they said Marion, or Marvin and Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1254	1	13	13	suborq_1254_1_1.wav	
+suborq	7	4	3	r	He said that Sally, and Logan or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1254	1	14	14	suborq_1254_7_3.wav	
+suborq	8	4	2	l	He said that Marjorie and Sally, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1254	1	15	15	suborq_1254_8_2.wav	
+suborq	6	3	4	l	She read in the minutes that Jeremy has to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1254	1	16	16	suborq_1254_6_4.wav	
+suborq	1	1	2	r	I thought they said Marion, or Sarah and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1254	1	17	17	suborq_1254_1_2.wav	
+suborq	7	4	4	r	He said that Sally was nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1254	1	18	18	suborq_1254_7_4.wav	
+suborq	2	1	1	l	I thought they said Marion or Marvin, and Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1254	1	19	19	suborq_1254_2_1.wav	
+suborq	4	2	3	l	You said that Megan and Lauren, or Dillon would help. But now it turns out that Morgan and Lauren, or Morgan would help?	1254	1	20	20	suborq_1254_4_3.wav	
+suborq	5	3	2	r	She read in the minutes that Marion, or Jeremy and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1254	1	21	21	suborq_1254_5_2.wav	
+suborq	3	2	4	r	You said that Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1254	1	22	22	suborq_1254_3_4.wav	
+suborq	6	3	1	l	She read in the minutes that Marion or Benjamin, and Jeremy have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1254	1	23	23	suborq_1254_6_1.wav	
+suborq	8	4	3	l	He said that Sally and Logan, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1254	1	24	24	suborq_1254_8_3.wav	
+suborq	4	2	1	l	You said that Dillon and Lauren, or Morgan would help. But now it turns out that Megan and Lauren, or Morgan would help?	1254	1	25	25	suborq_1254_4_1.wav	
+suborq	5	3	4	r	She read in the minutes that Jeremy has to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1254	1	26	26	suborq_1254_5_4.wav	
+suborq	3	2	2	r	You said that Megan, and Dillon or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1254	1	27	27	suborq_1254_3_2.wav	
+suborq	2	1	3	l	I thought they said Sarah or Marvin, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1254	1	28	28	suborq_1254_2_3.wav	
+suborq	8	4	1	l	He said that Marjorie and Logan, or Sally were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1254	1	29	29	suborq_1254_8_1.wav	
+suborq	1	1	4	r	I thought they said Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1254	1	30	30	suborq_1254_1_4.wav	
+suborq	6	3	3	l	She read in the minutes that Jeremy or Benjamin, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1254	1	31	31	suborq_1254_6_3.wav	
+suborq	7	4	2	r	He said that Marjorie, and Sally or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1254	1	32	32	suborq_1254_7_2.wav	
+suborq	3	2	3	r	You said that Dillon, and Lauren or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1256	1	1	1	suborq_1256_3_3.wav	
+suborq	5	3	1	r	She read in the minutes that Marion, or Benjamin and Jeremy have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1256	1	2	2	suborq_1256_5_1.wav	
+suborq	4	2	2	l	You said that Megan and Dillon, or Morgan would help.  But now it turns out that Megan and Lauren, or Morgan would help?	1256	1	3	3	suborq_1256_4_2.wav	
+suborq	2	1	4	l	I thought they said Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1256	1	4	4	suborq_1256_2_4.wav	
+suborq	7	4	3	r	He said that Sally, and Logan or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1256	1	5	5	suborq_1256_7_3.wav	
+suborq	6	3	4	l	She read in the minutes that Jeremy has to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1256	1	6	6	suborq_1256_6_4.wav	
+suborq	8	4	2	l	He said that Marjorie and Sally, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1256	1	7	7	suborq_1256_8_2.wav	
+suborq	1	1	1	r	I thought they said Marion, or Marvin and Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1256	1	8	8	suborq_1256_1_1.wav	
+suborq	2	1	1	l	I thought they said Marion or Marvin, and Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1256	1	9	9	suborq_1256_2_1.wav	
+suborq	4	2	3	l	You said that Megan and Lauren, or Dillon would help. But now it turns out that Morgan and Lauren, or Morgan would help?	1256	1	10	10	suborq_1256_4_3.wav	
+suborq	7	4	4	r	He said that Sally was nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1256	1	11	11	suborq_1256_7_4.wav	
+suborq	1	1	2	r	I thought they said Marion, or Sarah and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1256	1	12	12	suborq_1256_1_2.wav	
+suborq	3	2	4	r	You said that Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1256	1	13	13	suborq_1256_3_4.wav	
+suborq	5	3	2	r	She read in the minutes that Marion, or Jeremy and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1256	1	14	14	suborq_1256_5_2.wav	
+suborq	8	4	3	l	He said that Sally and Logan, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1256	1	15	15	suborq_1256_8_3.wav	
+suborq	6	3	1	l	She read in the minutes that Marion or Benjamin, and Jeremy have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1256	1	16	16	suborq_1256_6_1.wav	
+suborq	4	2	1	l	You said that Dillon and Lauren, or Morgan would help. But now it turns out that Megan and Lauren, or Morgan would help?	1256	1	17	17	suborq_1256_4_1.wav	
+suborq	7	4	2	r	He said that Marjorie, and Sally or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1256	1	18	18	suborq_1256_7_2.wav	
+suborq	1	1	4	r	I thought they said Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1256	1	19	19	suborq_1256_1_4.wav	
+suborq	2	1	3	l	I thought they said Sarah or Marvin, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1256	1	20	20	suborq_1256_2_3.wav	
+suborq	3	2	2	r	You said that Megan, and Dillon or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1256	1	21	21	suborq_1256_3_2.wav	
+suborq	8	4	1	l	He said that Marjorie and Logan, or Sally were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1256	1	22	22	suborq_1256_8_1.wav	
+suborq	5	3	4	r	She read in the minutes that Jeremy has to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1256	1	23	23	suborq_1256_5_4.wav	
+suborq	6	3	3	l	She read in the minutes that Jeremy or Benjamin, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1256	1	24	24	suborq_1256_6_3.wav	
+suborq	2	1	2	l	I thought they said Marion or Sarah, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1256	1	25	25	suborq_1256_2_2.wav	
+suborq	1	1	3	r	I thought they said Sarah, or Marvin and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1256	1	26	26	suborq_1256_1_3.wav	
+suborq	4	2	4	l	You said that Dillon would help. But now it turns out that Megan and Lauren, or Morgan would help?	1256	1	27	27	suborq_1256_4_4.wav	
+suborq	7	4	1	r	He said that Marjorie, and Logan or Sally were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1256	1	28	28	suborq_1256_7_1.wav	
+suborq	6	3	2	l	She read in the minutes that Marion or Jeremy, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1256	1	29	29	suborq_1256_6_2.wav	
+suborq	3	2	1	r	You said that Megan, and Lauren or Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1256	1	30	30	suborq_1256_3_1.wav	
+suborq	8	4	4	l	He said that Sally was nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1256	1	31	31	suborq_1256_8_4.wav	
+suborq	5	3	3	r	She read in the minutes that Jeremy, or Benjamin and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1256	1	32	32	suborq_1256_5_3.wav	
+suborq	3	2	4	r	You said that Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1141	1	1	1	suborq_1141_3_4.wav	
+suborq	6	3	1	l	She read in the minutes that Marion or Benjamin, and Jeremy have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1141	1	2	2	suborq_1141_6_1.wav	
+suborq	5	3	2	r	She read in the minutes that Marion, or Jeremy and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1141	1	3	3	suborq_1141_5_2.wav	
+suborq	8	4	3	l	He said that Sally and Logan, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1141	1	4	4	suborq_1141_8_3.wav	
+suborq	2	1	1	l	I thought they said Marion or Marvin, and Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1141	1	5	5	suborq_1141_2_1.wav	
+suborq	7	4	4	r	He said that Sally was nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1141	1	6	6	suborq_1141_7_4.wav	
+suborq	4	2	3	l	You said that Megan and Lauren, or Dillon would help. But now it turns out that Morgan and Lauren, or Morgan would help?	1141	1	7	7	suborq_1141_4_3.wav	
+suborq	1	1	2	r	I thought they said Marion, or Sarah and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1141	1	8	8	suborq_1141_1_2.wav	
+suborq	3	2	1	r	You said that Megan, and Lauren or Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1141	1	9	9	suborq_1141_3_1.wav	
+suborq	6	3	2	l	She read in the minutes that Marion or Jeremy, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1141	1	10	10	suborq_1141_6_2.wav	
+suborq	5	3	3	r	She read in the minutes that Jeremy, or Benjamin and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1141	1	11	11	suborq_1141_5_3.wav	
+suborq	8	4	4	l	He said that Sally was nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1141	1	12	12	suborq_1141_8_4.wav	
+suborq	1	1	3	r	I thought they said Sarah, or Marvin and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1141	1	13	13	suborq_1141_1_3.wav	
+suborq	4	2	4	l	You said that Dillon would help. But now it turns out that Megan and Lauren, or Morgan would help?	1141	1	14	14	suborq_1141_4_4.wav	
+suborq	7	4	1	r	He said that Marjorie, and Logan or Sally were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1141	1	15	15	suborq_1141_7_1.wav	
+suborq	2	1	2	l	I thought they said Marion or Sarah, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1141	1	16	16	suborq_1141_2_2.wav	
+suborq	6	3	4	l	She read in the minutes that Jeremy has to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1141	1	17	17	suborq_1141_6_4.wav	
+suborq	7	4	3	r	He said that Sally, and Logan or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1141	1	18	18	suborq_1141_7_3.wav	
+suborq	1	1	1	r	I thought they said Marion, or Marvin and Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1141	1	19	19	suborq_1141_1_1.wav	
+suborq	8	4	2	l	He said that Marjorie and Sally, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1141	1	20	20	suborq_1141_8_2.wav	
+suborq	5	3	1	r	She read in the minutes that Marion, or Benjamin and Jeremy have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1141	1	21	21	suborq_1141_5_1.wav	
+suborq	2	1	4	l	I thought they said Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1141	1	22	22	suborq_1141_2_4.wav	
+suborq	3	2	3	r	You said that Dillon, and Lauren or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1141	1	23	23	suborq_1141_3_3.wav	
+suborq	4	2	2	l	You said that Megan and Dillon, or Morgan would help.  But now it turns out that Megan and Lauren, or Morgan would help?	1141	1	24	24	suborq_1141_4_2.wav	
+suborq	6	3	3	l	She read in the minutes that Jeremy or Benjamin, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1141	1	25	25	suborq_1141_6_3.wav	
+suborq	7	4	2	r	He said that Marjorie, and Sally or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1141	1	26	26	suborq_1141_7_2.wav	
+suborq	8	4	1	l	He said that Marjorie and Logan, or Sally were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1141	1	27	27	suborq_1141_8_1.wav	
+suborq	1	1	4	r	I thought they said Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1141	1	28	28	suborq_1141_1_4.wav	
+suborq	2	1	3	l	I thought they said Sarah or Marvin, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1141	1	29	29	suborq_1141_2_3.wav	
+suborq	3	2	2	r	You said that Megan, and Dillon or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1141	1	30	30	suborq_1141_3_2.wav	
+suborq	4	2	1	l	You said that Dillon and Lauren, or Morgan would help. But now it turns out that Megan and Lauren, or Morgan would help?	1141	1	31	31	suborq_1141_4_1.wav	
+suborq	5	3	4	r	She read in the minutes that Jeremy has to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1141	1	32	32	suborq_1141_5_4.wav	
+suborq	5	3	2	r	She read in the minutes that Marion, or Jeremy and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1257	1	1	1	suborq_1257_5_2.wav	
+suborq	8	4	3	l	He said that Sally and Logan, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1257	1	2	2	suborq_1257_8_3.wav	
+suborq	6	3	1	l	She read in the minutes that Marion or Benjamin, and Jeremy have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1257	1	3	3	suborq_1257_6_1.wav	
+suborq	3	2	4	r	You said that Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1257	1	4	4	suborq_1257_3_4.wav	
+suborq	1	1	2	r	I thought they said Marion, or Sarah and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1257	1	5	5	suborq_1257_1_2.wav	
+suborq	2	1	1	l	I thought they said Marion or Marvin, and Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1257	1	6	6	suborq_1257_2_1.wav	
+suborq	7	4	4	r	He said that Sally was nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1257	1	7	7	suborq_1257_7_4.wav	
+suborq	4	2	3	l	You said that Megan and Lauren, or Dillon would help. But now it turns out that Morgan and Lauren, or Morgan would help?	1257	1	8	8	suborq_1257_4_3.wav	
+suborq	7	4	2	r	He said that Marjorie, and Sally or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1257	1	9	9	suborq_1257_7_2.wav	
+suborq	1	1	4	r	I thought they said Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1257	1	10	10	suborq_1257_1_4.wav	
+suborq	8	4	1	l	He said that Marjorie and Logan, or Sally were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1257	1	11	11	suborq_1257_8_1.wav	
+suborq	6	3	3	l	She read in the minutes that Jeremy or Benjamin, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1257	1	12	12	suborq_1257_6_3.wav	
+suborq	2	1	3	l	I thought they said Sarah or Marvin, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1257	1	13	13	suborq_1257_2_3.wav	
+suborq	4	2	1	l	You said that Dillon and Lauren, or Morgan would help. But now it turns out that Megan and Lauren, or Morgan would help?	1257	1	14	14	suborq_1257_4_1.wav	
+suborq	5	3	4	r	She read in the minutes that Jeremy has to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1257	1	15	15	suborq_1257_5_4.wav	
+suborq	3	2	2	r	You said that Megan, and Dillon or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1257	1	16	16	suborq_1257_3_2.wav	
+suborq	8	4	4	l	He said that Sally was nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1257	1	17	17	suborq_1257_8_4.wav	
+suborq	6	3	2	l	She read in the minutes that Marion or Jeremy, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1257	1	18	18	suborq_1257_6_2.wav	
+suborq	5	3	3	r	She read in the minutes that Jeremy, or Benjamin and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1257	1	19	19	suborq_1257_5_3.wav	
+suborq	3	2	1	r	You said that Megan, and Lauren or Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1257	1	20	20	suborq_1257_3_1.wav	
+suborq	1	1	3	r	I thought they said Sarah, or Marvin and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1257	1	21	21	suborq_1257_1_3.wav	
+suborq	2	1	2	l	I thought they said Marion or Sarah, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1257	1	22	22	suborq_1257_2_2.wav	
+suborq	4	2	4	l	You said that Dillon would help. But now it turns out that Megan and Lauren, or Morgan would help?	1257	1	23	23	suborq_1257_4_4.wav	
+suborq	7	4	1	r	He said that Marjorie, and Logan or Sally were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1257	1	24	24	suborq_1257_7_1.wav	
+suborq	8	4	2	l	He said that Marjorie and Sally, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1257	1	25	25	suborq_1257_8_2.wav	
+suborq	7	4	3	r	He said that Sally, and Logan or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1257	1	26	26	suborq_1257_7_3.wav	
+suborq	6	3	4	l	She read in the minutes that Jeremy has to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1257	1	27	27	suborq_1257_6_4.wav	
+suborq	1	1	1	r	I thought they said Marion, or Marvin and Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1257	1	28	28	suborq_1257_1_1.wav	
+suborq	4	2	2	l	You said that Megan and Dillon, or Morgan would help.  But now it turns out that Megan and Lauren, or Morgan would help?	1257	1	29	29	suborq_1257_4_2.wav	
+suborq	2	1	4	l	I thought they said Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1257	1	30	30	suborq_1257_2_4.wav	
+suborq	3	2	3	r	You said that Dillon, and Lauren or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1257	1	31	31	suborq_1257_3_3.wav	
+suborq	5	3	1	r	She read in the minutes that Marion, or Benjamin and Jeremy have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1257	1	32	32	suborq_1257_5_1.wav	
+suborq	2	1	2	l	I thought they said Marion or Sarah, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	207	1	1	1	suborq_207_2_2.wav	
+suborq	4	2	4	l	You said that Dillon would help. But now it turns out that Megan and Lauren, or Morgan would help?	207	1	2	2	suborq_207_4_4.wav	
+suborq	5	3	3	r	She read in the minutes that Jeremy, or Benjamin and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	207	1	3	3	suborq_207_5_3.wav	
+suborq	3	2	1	r	You said that Megan, and Lauren or Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	207	1	4	4	suborq_207_3_1.wav	
+suborq	1	1	3	r	I thought they said Sarah, or Marvin and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	207	1	5	5	suborq_207_1_3.wav	
+suborq	7	4	1	r	He said that Marjorie, and Logan or Sally were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	207	1	6	6	suborq_207_7_1.wav	
+suborq	8	4	4	l	He said that Sally was nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	207	1	7	7	suborq_207_8_4.wav	
+suborq	6	3	2	l	She read in the minutes that Marion or Jeremy, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	207	1	8	8	suborq_207_6_2.wav	
+suborq	2	1	3	l	I thought they said Sarah or Marvin, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	207	1	9	9	suborq_207_2_3.wav	
+suborq	3	2	2	r	You said that Megan, and Dillon or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	207	1	10	10	suborq_207_3_2.wav	
+suborq	4	2	1	l	You said that Dillon and Lauren, or Morgan would help. But now it turns out that Megan and Lauren, or Morgan would help?	207	1	11	11	suborq_207_4_1.wav	
+suborq	5	3	4	r	She read in the minutes that Jeremy has to go. But it actually says that Marion, or Benjamin and Lillian have to go?	207	1	12	12	suborq_207_5_4.wav	
+suborq	7	4	2	r	He said that Marjorie, and Sally or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	207	1	13	13	suborq_207_7_2.wav	
+suborq	6	3	3	l	She read in the minutes that Jeremy or Benjamin, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	207	1	14	14	suborq_207_6_3.wav	
+suborq	8	4	1	l	He said that Marjorie and Logan, or Sally were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	207	1	15	15	suborq_207_8_1.wav	
+suborq	1	1	4	r	I thought they said Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	207	1	16	16	suborq_207_1_4.wav	
+suborq	5	3	1	r	She read in the minutes that Marion, or Benjamin and Jeremy have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	207	1	17	17	suborq_207_5_1.wav	
+suborq	3	2	3	r	You said that Dillon, and Lauren or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	207	1	18	18	suborq_207_3_3.wav	
+suborq	2	1	4	l	I thought they said Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	207	1	19	19	suborq_207_2_4.wav	
+suborq	4	2	2	l	You said that Megan and Dillon, or Morgan would help.  But now it turns out that Megan and Lauren, or Morgan would help?	207	1	20	20	suborq_207_4_2.wav	
+suborq	6	3	4	l	She read in the minutes that Jeremy has to go. But it actually says that Marion or Benjamin, and Lillian have to go?	207	1	21	21	suborq_207_6_4.wav	
+suborq	7	4	3	r	He said that Sally, and Logan or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	207	1	22	22	suborq_207_7_3.wav	
+suborq	8	4	2	l	He said that Marjorie and Sally, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	207	1	23	23	suborq_207_8_2.wav	
+suborq	1	1	1	r	I thought they said Marion, or Marvin and Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	207	1	24	24	suborq_207_1_1.wav	
+suborq	3	2	4	r	You said that Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	207	1	25	25	suborq_207_3_4.wav	
+suborq	2	1	1	l	I thought they said Marion or Marvin, and Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	207	1	26	26	suborq_207_2_1.wav	
+suborq	5	3	2	r	She read in the minutes that Marion, or Jeremy and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	207	1	27	27	suborq_207_5_2.wav	
+suborq	4	2	3	l	You said that Megan and Lauren, or Dillon would help. But now it turns out that Morgan and Lauren, or Morgan would help?	207	1	28	28	suborq_207_4_3.wav	
+suborq	7	4	4	r	He said that Sally was nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	207	1	29	29	suborq_207_7_4.wav	
+suborq	6	3	1	l	She read in the minutes that Marion or Benjamin, and Jeremy have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	207	1	30	30	suborq_207_6_1.wav	
+suborq	8	4	3	l	He said that Sally and Logan, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	207	1	31	31	suborq_207_8_3.wav	
+suborq	1	1	2	r	I thought they said Marion, or Sarah and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	207	1	32	32	suborq_207_1_2.wav	
+suborq	7	4	2	r	He said that Marjorie, and Sally or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	28	1	1	1	suborq_28_7_2.wav	
+suborq	2	1	3	l	I thought they said Sarah or Marvin, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	28	1	2	2	suborq_28_2_3.wav	
+suborq	1	1	4	r	I thought they said Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	28	1	3	3	suborq_28_1_4.wav	
+suborq	4	2	1	l	You said that Dillon and Lauren, or Morgan would help. But now it turns out that Megan and Lauren, or Morgan would help?	28	1	4	4	suborq_28_4_1.wav	
+suborq	8	4	1	l	He said that Marjorie and Logan, or Sally were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	28	1	5	5	suborq_28_8_1.wav	
+suborq	5	3	4	r	She read in the minutes that Jeremy has to go. But it actually says that Marion, or Benjamin and Lillian have to go?	28	1	6	6	suborq_28_5_4.wav	
+suborq	6	3	3	l	She read in the minutes that Jeremy or Benjamin, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	28	1	7	7	suborq_28_6_3.wav	
+suborq	3	2	2	r	You said that Megan, and Dillon or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	28	1	8	8	suborq_28_3_2.wav	
+suborq	7	4	1	r	He said that Marjorie, and Logan or Sally were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	28	1	9	9	suborq_28_7_1.wav	
+suborq	2	1	2	l	I thought they said Marion or Sarah, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	28	1	10	10	suborq_28_2_2.wav	
+suborq	4	2	4	l	You said that Dillon would help. But now it turns out that Megan and Lauren, or Morgan would help?	28	1	11	11	suborq_28_4_4.wav	
+suborq	1	1	3	r	I thought they said Sarah, or Marvin and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	28	1	12	12	suborq_28_1_3.wav	
+suborq	8	4	4	l	He said that Sally was nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	28	1	13	13	suborq_28_8_4.wav	
+suborq	6	3	2	l	She read in the minutes that Marion or Jeremy, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	28	1	14	14	suborq_28_6_2.wav	
+suborq	3	2	1	r	You said that Megan, and Lauren or Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	28	1	15	15	suborq_28_3_1.wav	
+suborq	5	3	3	r	She read in the minutes that Jeremy, or Benjamin and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	28	1	16	16	suborq_28_5_3.wav	
+suborq	2	1	1	l	I thought they said Marion or Marvin, and Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	28	1	17	17	suborq_28_2_1.wav	
+suborq	4	2	3	l	You said that Megan and Lauren, or Dillon would help. But now it turns out that Morgan and Lauren, or Morgan would help?	28	1	18	18	suborq_28_4_3.wav	
+suborq	7	4	4	r	He said that Sally was nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	28	1	19	19	suborq_28_7_4.wav	
+suborq	1	1	2	r	I thought they said Marion, or Sarah and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	28	1	20	20	suborq_28_1_2.wav	
+suborq	5	3	2	r	She read in the minutes that Marion, or Jeremy and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	28	1	21	21	suborq_28_5_2.wav	
+suborq	3	2	4	r	You said that Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	28	1	22	22	suborq_28_3_4.wav	
+suborq	6	3	1	l	She read in the minutes that Marion or Benjamin, and Jeremy have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	28	1	23	23	suborq_28_6_1.wav	
+suborq	8	4	3	l	He said that Sally and Logan, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	28	1	24	24	suborq_28_8_3.wav	
+suborq	4	2	2	l	You said that Megan and Dillon, or Morgan would help.  But now it turns out that Megan and Lauren, or Morgan would help?	28	1	25	25	suborq_28_4_2.wav	
+suborq	2	1	4	l	I thought they said Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	28	1	26	26	suborq_28_2_4.wav	
+suborq	3	2	3	r	You said that Dillon, and Lauren or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	28	1	27	27	suborq_28_3_3.wav	
+suborq	5	3	1	r	She read in the minutes that Marion, or Benjamin and Jeremy have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	28	1	28	28	suborq_28_5_1.wav	
+suborq	6	3	4	l	She read in the minutes that Jeremy has to go. But it actually says that Marion or Benjamin, and Lillian have to go?	28	1	29	29	suborq_28_6_4.wav	
+suborq	8	4	2	l	He said that Marjorie and Sally, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	28	1	30	30	suborq_28_8_2.wav	
+suborq	7	4	3	r	He said that Sally, and Logan or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	28	1	31	31	suborq_28_7_3.wav	
+suborq	1	1	1	r	I thought they said Marion, or Marvin and Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	28	1	32	32	suborq_28_1_1.wav	
+suborq	6	3	4	l	She read in the minutes that Jeremy has to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1258	1	1	1	suborq_1258_6_4.wav	
+suborq	1	1	1	r	I thought they said Marion, or Marvin and Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1258	1	2	2	suborq_1258_1_1.wav	
+suborq	7	4	3	r	He said that Sally, and Logan or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1258	1	3	3	suborq_1258_7_3.wav	
+suborq	8	4	2	l	He said that Marjorie and Sally, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1258	1	4	4	suborq_1258_8_2.wav	
+suborq	3	2	3	r	You said that Dillon, and Lauren or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1258	1	5	5	suborq_1258_3_3.wav	
+suborq	4	2	2	l	You said that Megan and Dillon, or Morgan would help.  But now it turns out that Megan and Lauren, or Morgan would help?	1258	1	6	6	suborq_1258_4_2.wav	
+suborq	2	1	4	l	I thought they said Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1258	1	7	7	suborq_1258_2_4.wav	
+suborq	5	3	1	r	She read in the minutes that Marion, or Benjamin and Jeremy have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1258	1	8	8	suborq_1258_5_1.wav	
+suborq	8	4	3	l	He said that Sally and Logan, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1258	1	9	9	suborq_1258_8_3.wav	
+suborq	5	3	2	r	She read in the minutes that Marion, or Jeremy and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1258	1	10	10	suborq_1258_5_2.wav	
+suborq	6	3	1	l	She read in the minutes that Marion or Benjamin, and Jeremy have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1258	1	11	11	suborq_1258_6_1.wav	
+suborq	3	2	4	r	You said that Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1258	1	12	12	suborq_1258_3_4.wav	
+suborq	7	4	4	r	He said that Sally was nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1258	1	13	13	suborq_1258_7_4.wav	
+suborq	2	1	1	l	I thought they said Marion or Marvin, and Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1258	1	14	14	suborq_1258_2_1.wav	
+suborq	1	1	2	r	I thought they said Marion, or Sarah and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1258	1	15	15	suborq_1258_1_2.wav	
+suborq	4	2	3	l	You said that Megan and Lauren, or Dillon would help. But now it turns out that Morgan and Lauren, or Morgan would help?	1258	1	16	16	suborq_1258_4_3.wav	
+suborq	6	3	3	l	She read in the minutes that Jeremy or Benjamin, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1258	1	17	17	suborq_1258_6_3.wav	
+suborq	5	3	4	r	She read in the minutes that Jeremy has to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1258	1	18	18	suborq_1258_5_4.wav	
+suborq	3	2	2	r	You said that Megan, and Dillon or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1258	1	19	19	suborq_1258_3_2.wav	
+suborq	8	4	1	l	He said that Marjorie and Logan, or Sally were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1258	1	20	20	suborq_1258_8_1.wav	
+suborq	1	1	4	r	I thought they said Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1258	1	21	21	suborq_1258_1_4.wav	
+suborq	2	1	3	l	I thought they said Sarah or Marvin, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1258	1	22	22	suborq_1258_2_3.wav	
+suborq	7	4	2	r	He said that Marjorie, and Sally or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1258	1	23	23	suborq_1258_7_2.wav	
+suborq	4	2	1	l	You said that Dillon and Lauren, or Morgan would help. But now it turns out that Megan and Lauren, or Morgan would help?	1258	1	24	24	suborq_1258_4_1.wav	
+suborq	6	3	2	l	She read in the minutes that Marion or Jeremy, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1258	1	25	25	suborq_1258_6_2.wav	
+suborq	3	2	1	r	You said that Megan, and Lauren or Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1258	1	26	26	suborq_1258_3_1.wav	
+suborq	8	4	4	l	He said that Sally was nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1258	1	27	27	suborq_1258_8_4.wav	
+suborq	5	3	3	r	She read in the minutes that Jeremy, or Benjamin and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1258	1	28	28	suborq_1258_5_3.wav	
+suborq	4	2	4	l	You said that Dillon would help. But now it turns out that Megan and Lauren, or Morgan would help?	1258	1	29	29	suborq_1258_4_4.wav	
+suborq	7	4	1	r	He said that Marjorie, and Logan or Sally were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1258	1	30	30	suborq_1258_7_1.wav	
+suborq	2	1	2	l	I thought they said Marion or Sarah, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1258	1	31	31	suborq_1258_2_2.wav	
+suborq	1	1	3	r	I thought they said Sarah, or Marvin and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1258	1	32	32	suborq_1258_1_3.wav	
+suborq	6	3	2	l	She read in the minutes that Marion or Jeremy, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1259	1	1	1	suborq_1259_6_2.wav	
+suborq	8	4	4	l	He said that Sally was nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1259	1	2	2	suborq_1259_8_4.wav	
+suborq	3	2	1	r	You said that Megan, and Lauren or Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1259	1	3	3	suborq_1259_3_1.wav	
+suborq	5	3	3	r	She read in the minutes that Jeremy, or Benjamin and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1259	1	4	4	suborq_1259_5_3.wav	
+suborq	2	1	2	l	I thought they said Marion or Sarah, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1259	1	5	5	suborq_1259_2_2.wav	
+suborq	7	4	1	r	He said that Marjorie, and Logan or Sally were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1259	1	6	6	suborq_1259_7_1.wav	
+suborq	1	1	3	r	I thought they said Sarah, or Marvin and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1259	1	7	7	suborq_1259_1_3.wav	
+suborq	4	2	4	l	You said that Dillon would help. But now it turns out that Megan and Lauren, or Morgan would help?	1259	1	8	8	suborq_1259_4_4.wav	
+suborq	3	2	4	r	You said that Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1259	1	9	9	suborq_1259_3_4.wav	
+suborq	5	3	2	r	She read in the minutes that Marion, or Jeremy and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1259	1	10	10	suborq_1259_5_2.wav	
+suborq	6	3	1	l	She read in the minutes that Marion or Benjamin, and Jeremy have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1259	1	11	11	suborq_1259_6_1.wav	
+suborq	8	4	3	l	He said that Sally and Logan, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1259	1	12	12	suborq_1259_8_3.wav	
+suborq	2	1	1	l	I thought they said Marion or Marvin, and Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1259	1	13	13	suborq_1259_2_1.wav	
+suborq	4	2	3	l	You said that Megan and Lauren, or Dillon would help. But now it turns out that Morgan and Lauren, or Morgan would help?	1259	1	14	14	suborq_1259_4_3.wav	
+suborq	7	4	4	r	He said that Sally was nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1259	1	15	15	suborq_1259_7_4.wav	
+suborq	1	1	2	r	I thought they said Marion, or Sarah and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1259	1	16	16	suborq_1259_1_2.wav	
+suborq	5	3	4	r	She read in the minutes that Jeremy has to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1259	1	17	17	suborq_1259_5_4.wav	
+suborq	3	2	2	r	You said that Megan, and Dillon or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1259	1	18	18	suborq_1259_3_2.wav	
+suborq	6	3	3	l	She read in the minutes that Jeremy or Benjamin, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1259	1	19	19	suborq_1259_6_3.wav	
+suborq	8	4	1	l	He said that Marjorie and Logan, or Sally were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1259	1	20	20	suborq_1259_8_1.wav	
+suborq	2	1	3	l	I thought they said Sarah or Marvin, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1259	1	21	21	suborq_1259_2_3.wav	
+suborq	7	4	2	r	He said that Marjorie, and Sally or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1259	1	22	22	suborq_1259_7_2.wav	
+suborq	1	1	4	r	I thought they said Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1259	1	23	23	suborq_1259_1_4.wav	
+suborq	4	2	1	l	You said that Dillon and Lauren, or Morgan would help. But now it turns out that Megan and Lauren, or Morgan would help?	1259	1	24	24	suborq_1259_4_1.wav	
+suborq	8	4	2	l	He said that Marjorie and Sally, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1259	1	25	25	suborq_1259_8_2.wav	
+suborq	7	4	3	r	He said that Sally, and Logan or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1259	1	26	26	suborq_1259_7_3.wav	
+suborq	6	3	4	l	She read in the minutes that Jeremy has to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1259	1	27	27	suborq_1259_6_4.wav	
+suborq	1	1	1	r	I thought they said Marion, or Marvin and Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1259	1	28	28	suborq_1259_1_1.wav	
+suborq	5	3	1	r	She read in the minutes that Marion, or Benjamin and Jeremy have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1259	1	29	29	suborq_1259_5_1.wav	
+suborq	3	2	3	r	You said that Dillon, and Lauren or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1259	1	30	30	suborq_1259_3_3.wav	
+suborq	4	2	2	l	You said that Megan and Dillon, or Morgan would help.  But now it turns out that Megan and Lauren, or Morgan would help?	1259	1	31	31	suborq_1259_4_2.wav	
+suborq	2	1	4	l	I thought they said Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1259	1	32	32	suborq_1259_2_4.wav	
+suborq	4	2	2	l	You said that Megan and Dillon, or Morgan would help.  But now it turns out that Megan and Lauren, or Morgan would help?	1260	1	1	1	suborq_1260_4_2.wav	
+suborq	7	4	3	r	He said that Sally, and Logan or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1260	1	2	2	suborq_1260_7_3.wav	
+suborq	1	1	1	r	I thought they said Marion, or Marvin and Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1260	1	3	3	suborq_1260_1_1.wav	
+suborq	2	1	4	l	I thought they said Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1260	1	4	4	suborq_1260_2_4.wav	
+suborq	6	3	4	l	She read in the minutes that Jeremy has to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1260	1	5	5	suborq_1260_6_4.wav	
+suborq	5	3	1	r	She read in the minutes that Marion, or Benjamin and Jeremy have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1260	1	6	6	suborq_1260_5_1.wav	
+suborq	3	2	3	r	You said that Dillon, and Lauren or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1260	1	7	7	suborq_1260_3_3.wav	
+suborq	8	4	2	l	He said that Marjorie and Sally, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1260	1	8	8	suborq_1260_8_2.wav	
+suborq	1	1	4	r	I thought they said Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1260	1	9	9	suborq_1260_1_4.wav	
+suborq	2	1	3	l	I thought they said Sarah or Marvin, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1260	1	10	10	suborq_1260_2_3.wav	
+suborq	7	4	2	r	He said that Marjorie, and Sally or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1260	1	11	11	suborq_1260_7_2.wav	
+suborq	4	2	1	l	You said that Dillon and Lauren, or Morgan would help. But now it turns out that Megan and Lauren, or Morgan would help?	1260	1	12	12	suborq_1260_4_1.wav	
+suborq	3	2	2	r	You said that Megan, and Dillon or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1260	1	13	13	suborq_1260_3_2.wav	
+suborq	6	3	3	l	She read in the minutes that Jeremy or Benjamin, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1260	1	14	14	suborq_1260_6_3.wav	
+suborq	5	3	4	r	She read in the minutes that Jeremy has to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1260	1	15	15	suborq_1260_5_4.wav	
+suborq	8	4	1	l	He said that Marjorie and Logan, or Sally were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1260	1	16	16	suborq_1260_8_1.wav	
+suborq	7	4	1	r	He said that Marjorie, and Logan or Sally were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1260	1	17	17	suborq_1260_7_1.wav	
+suborq	1	1	3	r	I thought they said Sarah, or Marvin and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1260	1	18	18	suborq_1260_1_3.wav	
+suborq	2	1	2	l	I thought they said Marion or Sarah, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1260	1	19	19	suborq_1260_2_2.wav	
+suborq	4	2	4	l	You said that Dillon would help. But now it turns out that Megan and Lauren, or Morgan would help?	1260	1	20	20	suborq_1260_4_4.wav	
+suborq	8	4	4	l	He said that Sally was nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1260	1	21	21	suborq_1260_8_4.wav	
+suborq	6	3	2	l	She read in the minutes that Marion or Jeremy, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1260	1	22	22	suborq_1260_6_2.wav	
+suborq	3	2	1	r	You said that Megan, and Lauren or Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1260	1	23	23	suborq_1260_3_1.wav	
+suborq	5	3	3	r	She read in the minutes that Jeremy, or Benjamin and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1260	1	24	24	suborq_1260_5_3.wav	
+suborq	2	1	1	l	I thought they said Marion or Marvin, and Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1260	1	25	25	suborq_1260_2_1.wav	
+suborq	5	3	2	r	She read in the minutes that Marion, or Jeremy and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1260	1	26	26	suborq_1260_5_2.wav	
+suborq	3	2	4	r	You said that Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1260	1	27	27	suborq_1260_3_4.wav	
+suborq	4	2	3	l	You said that Megan and Lauren, or Dillon would help. But now it turns out that Morgan and Lauren, or Morgan would help?	1260	1	28	28	suborq_1260_4_3.wav	
+suborq	6	3	1	l	She read in the minutes that Marion or Benjamin, and Jeremy have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1260	1	29	29	suborq_1260_6_1.wav	
+suborq	1	1	2	r	I thought they said Marion, or Sarah and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1260	1	30	30	suborq_1260_1_2.wav	
+suborq	7	4	4	r	He said that Sally was nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1260	1	31	31	suborq_1260_7_4.wav	
+suborq	8	4	3	l	He said that Sally and Logan, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1260	1	32	32	suborq_1260_8_3.wav	
+suborq	5	3	3	r	She read in the minutes that Jeremy, or Benjamin and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1264	1	1	1	suborq_1264_5_3.wav	
+suborq	6	3	2	l	She read in the minutes that Marion or Jeremy, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1264	1	2	2	suborq_1264_6_2.wav	
+suborq	3	2	1	r	You said that Megan, and Lauren or Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1264	1	3	3	suborq_1264_3_1.wav	
+suborq	8	4	4	l	He said that Sally was nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1264	1	4	4	suborq_1264_8_4.wav	
+suborq	1	1	3	r	I thought they said Sarah, or Marvin and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1264	1	5	5	suborq_1264_1_3.wav	
+suborq	7	4	1	r	He said that Marjorie, and Logan or Sally were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1264	1	6	6	suborq_1264_7_1.wav	
+suborq	2	1	2	l	I thought they said Marion or Sarah, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1264	1	7	7	suborq_1264_2_2.wav	
+suborq	4	2	4	l	You said that Dillon would help. But now it turns out that Megan and Lauren, or Morgan would help?	1264	1	8	8	suborq_1264_4_4.wav	
+suborq	7	4	4	r	He said that Sally was nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1264	1	9	9	suborq_1264_7_4.wav	
+suborq	6	3	1	l	She read in the minutes that Marion or Benjamin, and Jeremy have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1264	1	10	10	suborq_1264_6_1.wav	
+suborq	8	4	3	l	He said that Sally and Logan, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1264	1	11	11	suborq_1264_8_3.wav	
+suborq	1	1	2	r	I thought they said Marion, or Sarah and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1264	1	12	12	suborq_1264_1_2.wav	
+suborq	3	2	4	r	You said that Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1264	1	13	13	suborq_1264_3_4.wav	
+suborq	2	1	1	l	I thought they said Marion or Marvin, and Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1264	1	14	14	suborq_1264_2_1.wav	
+suborq	4	2	3	l	You said that Megan and Lauren, or Dillon would help. But now it turns out that Morgan and Lauren, or Morgan would help?	1264	1	15	15	suborq_1264_4_3.wav	
+suborq	5	3	2	r	She read in the minutes that Marion, or Jeremy and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1264	1	16	16	suborq_1264_5_2.wav	
+suborq	8	4	2	l	He said that Marjorie and Sally, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1264	1	17	17	suborq_1264_8_2.wav	
+suborq	3	2	3	r	You said that Dillon, and Lauren or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1264	1	18	18	suborq_1264_3_3.wav	
+suborq	6	3	4	l	She read in the minutes that Jeremy has to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1264	1	19	19	suborq_1264_6_4.wav	
+suborq	5	3	1	r	She read in the minutes that Marion, or Benjamin and Jeremy have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1264	1	20	20	suborq_1264_5_1.wav	
+suborq	4	2	2	l	You said that Megan and Dillon, or Morgan would help.  But now it turns out that Megan and Lauren, or Morgan would help?	1264	1	21	21	suborq_1264_4_2.wav	
+suborq	1	1	1	r	I thought they said Marion, or Marvin and Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1264	1	22	22	suborq_1264_1_1.wav	
+suborq	7	4	3	r	He said that Sally, and Logan or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1264	1	23	23	suborq_1264_7_3.wav	
+suborq	2	1	4	l	I thought they said Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1264	1	24	24	suborq_1264_2_4.wav	
+suborq	8	4	1	l	He said that Marjorie and Logan, or Sally were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1264	1	25	25	suborq_1264_8_1.wav	
+suborq	6	3	3	l	She read in the minutes that Jeremy or Benjamin, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1264	1	26	26	suborq_1264_6_3.wav	
+suborq	5	3	4	r	She read in the minutes that Jeremy has to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1264	1	27	27	suborq_1264_5_4.wav	
+suborq	3	2	2	r	You said that Megan, and Dillon or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1264	1	28	28	suborq_1264_3_2.wav	
+suborq	1	1	4	r	I thought they said Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1264	1	29	29	suborq_1264_1_4.wav	
+suborq	7	4	2	r	He said that Marjorie, and Sally or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1264	1	30	30	suborq_1264_7_2.wav	
+suborq	2	1	3	l	I thought they said Sarah or Marvin, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1264	1	31	31	suborq_1264_2_3.wav	
+suborq	4	2	1	l	You said that Dillon and Lauren, or Morgan would help. But now it turns out that Megan and Lauren, or Morgan would help?	1264	1	32	32	suborq_1264_4_1.wav	
+suborq	2	1	2	l	I thought they said Marion or Sarah, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1265	1	1	1	suborq_1265_2_2.wav	
+suborq	3	2	1	r	You said that Megan, and Lauren or Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1265	1	2	2	suborq_1265_3_1.wav	
+suborq	4	2	4	l	You said that Dillon would help. But now it turns out that Megan and Lauren, or Morgan would help?	1265	1	3	3	suborq_1265_4_4.wav	
+suborq	5	3	3	r	She read in the minutes that Jeremy, or Benjamin and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1265	1	4	4	suborq_1265_5_3.wav	
+suborq	1	1	3	r	I thought they said Sarah, or Marvin and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1265	1	5	5	suborq_1265_1_3.wav	
+suborq	7	4	1	r	He said that Marjorie, and Logan or Sally were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1265	1	6	6	suborq_1265_7_1.wav	
+suborq	6	3	2	l	She read in the minutes that Marion or Jeremy, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1265	1	7	7	suborq_1265_6_2.wav	
+suborq	8	4	4	l	He said that Sally was nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1265	1	8	8	suborq_1265_8_4.wav	
+suborq	2	1	1	l	I thought they said Marion or Marvin, and Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1265	1	9	9	suborq_1265_2_1.wav	
+suborq	4	2	3	l	You said that Megan and Lauren, or Dillon would help. But now it turns out that Morgan and Lauren, or Morgan would help?	1265	1	10	10	suborq_1265_4_3.wav	
+suborq	7	4	4	r	He said that Sally was nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1265	1	11	11	suborq_1265_7_4.wav	
+suborq	1	1	2	r	I thought they said Marion, or Sarah and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1265	1	12	12	suborq_1265_1_2.wav	
+suborq	6	3	1	l	She read in the minutes that Marion or Benjamin, and Jeremy have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1265	1	13	13	suborq_1265_6_1.wav	
+suborq	3	2	4	r	You said that Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1265	1	14	14	suborq_1265_3_4.wav	
+suborq	8	4	3	l	He said that Sally and Logan, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1265	1	15	15	suborq_1265_8_3.wav	
+suborq	5	3	2	r	She read in the minutes that Marion, or Jeremy and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1265	1	16	16	suborq_1265_5_2.wav	
+suborq	7	4	3	r	He said that Sally, and Logan or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1265	1	17	17	suborq_1265_7_3.wav	
+suborq	2	1	4	l	I thought they said Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1265	1	18	18	suborq_1265_2_4.wav	
+suborq	4	2	2	l	You said that Megan and Dillon, or Morgan would help.  But now it turns out that Megan and Lauren, or Morgan would help?	1265	1	19	19	suborq_1265_4_2.wav	
+suborq	1	1	1	r	I thought they said Marion, or Marvin and Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1265	1	20	20	suborq_1265_1_1.wav	
+suborq	3	2	3	r	You said that Dillon, and Lauren or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1265	1	21	21	suborq_1265_3_3.wav	
+suborq	5	3	1	r	She read in the minutes that Marion, or Benjamin and Jeremy have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1265	1	22	22	suborq_1265_5_1.wav	
+suborq	8	4	2	l	He said that Marjorie and Sally, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1265	1	23	23	suborq_1265_8_2.wav	
+suborq	6	3	4	l	She read in the minutes that Jeremy has to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1265	1	24	24	suborq_1265_6_4.wav	
+suborq	2	1	3	l	I thought they said Sarah or Marvin, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1265	1	25	25	suborq_1265_2_3.wav	
+suborq	3	2	2	r	You said that Megan, and Dillon or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1265	1	26	26	suborq_1265_3_2.wav	
+suborq	5	3	4	r	She read in the minutes that Jeremy has to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1265	1	27	27	suborq_1265_5_4.wav	
+suborq	4	2	1	l	You said that Dillon and Lauren, or Morgan would help. But now it turns out that Megan and Lauren, or Morgan would help?	1265	1	28	28	suborq_1265_4_1.wav	
+suborq	6	3	3	l	She read in the minutes that Jeremy or Benjamin, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1265	1	29	29	suborq_1265_6_3.wav	
+suborq	1	1	4	r	I thought they said Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1265	1	30	30	suborq_1265_1_4.wav	
+suborq	7	4	2	r	He said that Marjorie, and Sally or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1265	1	31	31	suborq_1265_7_2.wav	
+suborq	8	4	1	l	He said that Marjorie and Logan, or Sally were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1265	1	32	32	suborq_1265_8_1.wav	
+suborq	6	3	4	l	She read in the minutes that Jeremy has to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1266	1	1	1	suborq_1266_6_4.wav	
+suborq	8	4	2	l	He said that Marjorie and Sally, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1266	1	2	2	suborq_1266_8_2.wav	
+suborq	1	1	1	r	I thought they said Marion, or Marvin and Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1266	1	3	3	suborq_1266_1_1.wav	
+suborq	7	4	3	r	He said that Sally, and Logan or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1266	1	4	4	suborq_1266_7_3.wav	
+suborq	2	1	4	l	I thought they said Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1266	1	5	5	suborq_1266_2_4.wav	
+suborq	5	3	1	r	She read in the minutes that Marion, or Benjamin and Jeremy have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1266	1	6	6	suborq_1266_5_1.wav	
+suborq	4	2	2	l	You said that Megan and Dillon, or Morgan would help.  But now it turns out that Megan and Lauren, or Morgan would help?	1266	1	7	7	suborq_1266_4_2.wav	
+suborq	3	2	3	r	You said that Dillon, and Lauren or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1266	1	8	8	suborq_1266_3_3.wav	
+suborq	6	3	2	l	She read in the minutes that Marion or Jeremy, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1266	1	9	9	suborq_1266_6_2.wav	
+suborq	7	4	1	r	He said that Marjorie, and Logan or Sally were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1266	1	10	10	suborq_1266_7_1.wav	
+suborq	8	4	4	l	He said that Sally was nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1266	1	11	11	suborq_1266_8_4.wav	
+suborq	1	1	3	r	I thought they said Sarah, or Marvin and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1266	1	12	12	suborq_1266_1_3.wav	
+suborq	5	3	3	r	She read in the minutes that Jeremy, or Benjamin and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1266	1	13	13	suborq_1266_5_3.wav	
+suborq	4	2	4	l	You said that Dillon would help. But now it turns out that Megan and Lauren, or Morgan would help?	1266	1	14	14	suborq_1266_4_4.wav	
+suborq	3	2	1	r	You said that Megan, and Lauren or Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1266	1	15	15	suborq_1266_3_1.wav	
+suborq	2	1	2	l	I thought they said Marion or Sarah, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1266	1	16	16	suborq_1266_2_2.wav	
+suborq	8	4	1	l	He said that Marjorie and Logan, or Sally were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1266	1	17	17	suborq_1266_8_1.wav	
+suborq	3	2	2	r	You said that Megan, and Dillon or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1266	1	18	18	suborq_1266_3_2.wav	
+suborq	6	3	3	l	She read in the minutes that Jeremy or Benjamin, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1266	1	19	19	suborq_1266_6_3.wav	
+suborq	5	3	4	r	She read in the minutes that Jeremy has to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1266	1	20	20	suborq_1266_5_4.wav	
+suborq	1	1	4	r	I thought they said Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1266	1	21	21	suborq_1266_1_4.wav	
+suborq	7	4	2	r	He said that Marjorie, and Sally or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1266	1	22	22	suborq_1266_7_2.wav	
+suborq	4	2	1	l	You said that Dillon and Lauren, or Morgan would help. But now it turns out that Megan and Lauren, or Morgan would help?	1266	1	23	23	suborq_1266_4_1.wav	
+suborq	2	1	3	l	I thought they said Sarah or Marvin, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1266	1	24	24	suborq_1266_2_3.wav	
+suborq	8	4	3	l	He said that Sally and Logan, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1266	1	25	25	suborq_1266_8_3.wav	
+suborq	3	2	4	r	You said that Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1266	1	26	26	suborq_1266_3_4.wav	
+suborq	6	3	1	l	She read in the minutes that Marion or Benjamin, and Jeremy have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1266	1	27	27	suborq_1266_6_1.wav	
+suborq	5	3	2	r	She read in the minutes that Marion, or Jeremy and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1266	1	28	28	suborq_1266_5_2.wav	
+suborq	2	1	1	l	I thought they said Marion or Marvin, and Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1266	1	29	29	suborq_1266_2_1.wav	
+suborq	4	2	3	l	You said that Megan and Lauren, or Dillon would help. But now it turns out that Morgan and Lauren, or Morgan would help?	1266	1	30	30	suborq_1266_4_3.wav	
+suborq	1	1	2	r	I thought they said Marion, or Sarah and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1266	1	31	31	suborq_1266_1_2.wav	
+suborq	7	4	4	r	He said that Sally was nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1266	1	32	32	suborq_1266_7_4.wav	
+suborq	7	4	2	r	He said that Marjorie, and Sally or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1267	1	1	1	suborq_1267_7_2.wav	
+suborq	6	3	3	l	She read in the minutes that Jeremy or Benjamin, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1267	1	2	2	suborq_1267_6_3.wav	
+suborq	1	1	4	r	I thought they said Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1267	1	3	3	suborq_1267_1_4.wav	
+suborq	8	4	1	l	He said that Marjorie and Logan, or Sally were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1267	1	4	4	suborq_1267_8_1.wav	
+suborq	5	3	4	r	She read in the minutes that Jeremy has to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1267	1	5	5	suborq_1267_5_4.wav	
+suborq	3	2	2	r	You said that Megan, and Dillon or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1267	1	6	6	suborq_1267_3_2.wav	
+suborq	4	2	1	l	You said that Dillon and Lauren, or Morgan would help. But now it turns out that Megan and Lauren, or Morgan would help?	1267	1	7	7	suborq_1267_4_1.wav	
+suborq	2	1	3	l	I thought they said Sarah or Marvin, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1267	1	8	8	suborq_1267_2_3.wav	
+suborq	8	4	4	l	He said that Sally was nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1267	1	9	9	suborq_1267_8_4.wav	
+suborq	5	3	3	r	She read in the minutes that Jeremy, or Benjamin and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1267	1	10	10	suborq_1267_5_3.wav	
+suborq	3	2	1	r	You said that Megan, and Lauren or Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1267	1	11	11	suborq_1267_3_1.wav	
+suborq	6	3	2	l	She read in the minutes that Marion or Jeremy, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1267	1	12	12	suborq_1267_6_2.wav	
+suborq	1	1	3	r	I thought they said Sarah, or Marvin and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1267	1	13	13	suborq_1267_1_3.wav	
+suborq	4	2	4	l	You said that Dillon would help. But now it turns out that Megan and Lauren, or Morgan would help?	1267	1	14	14	suborq_1267_4_4.wav	
+suborq	2	1	2	l	I thought they said Marion or Sarah, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1267	1	15	15	suborq_1267_2_2.wav	
+suborq	7	4	1	r	He said that Marjorie, and Logan or Sally were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1267	1	16	16	suborq_1267_7_1.wav	
+suborq	7	4	4	r	He said that Sally was nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1267	1	17	17	suborq_1267_7_4.wav	
+suborq	8	4	3	l	He said that Sally and Logan, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1267	1	18	18	suborq_1267_8_3.wav	
+suborq	1	1	2	r	I thought they said Marion, or Sarah and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1267	1	19	19	suborq_1267_1_2.wav	
+suborq	6	3	1	l	She read in the minutes that Marion or Benjamin, and Jeremy have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1267	1	20	20	suborq_1267_6_1.wav	
+suborq	2	1	1	l	I thought they said Marion or Marvin, and Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1267	1	21	21	suborq_1267_2_1.wav	
+suborq	3	2	4	r	You said that Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1267	1	22	22	suborq_1267_3_4.wav	
+suborq	4	2	3	l	You said that Megan and Lauren, or Dillon would help. But now it turns out that Morgan and Lauren, or Morgan would help?	1267	1	23	23	suborq_1267_4_3.wav	
+suborq	5	3	2	r	She read in the minutes that Marion, or Jeremy and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1267	1	24	24	suborq_1267_5_2.wav	
+suborq	8	4	2	l	He said that Marjorie and Sally, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1267	1	25	25	suborq_1267_8_2.wav	
+suborq	6	3	4	l	She read in the minutes that Jeremy has to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1267	1	26	26	suborq_1267_6_4.wav	
+suborq	1	1	1	r	I thought they said Marion, or Marvin and Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1267	1	27	27	suborq_1267_1_1.wav	
+suborq	7	4	3	r	He said that Sally, and Logan or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1267	1	28	28	suborq_1267_7_3.wav	
+suborq	3	2	3	r	You said that Dillon, and Lauren or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1267	1	29	29	suborq_1267_3_3.wav	
+suborq	4	2	2	l	You said that Megan and Dillon, or Morgan would help.  But now it turns out that Megan and Lauren, or Morgan would help?	1267	1	30	30	suborq_1267_4_2.wav	
+suborq	2	1	4	l	I thought they said Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1267	1	31	31	suborq_1267_2_4.wav	
+suborq	5	3	1	r	She read in the minutes that Marion, or Benjamin and Jeremy have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1267	1	32	32	suborq_1267_5_1.wav	
+suborq	8	4	1	l	He said that Marjorie and Logan, or Sally were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1268	1	1	1	suborq_1268_8_1.wav	
+suborq	6	3	3	l	She read in the minutes that Jeremy or Benjamin, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1268	1	2	2	suborq_1268_6_3.wav	
+suborq	5	3	4	r	She read in the minutes that Jeremy has to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1268	1	3	3	suborq_1268_5_4.wav	
+suborq	3	2	2	r	You said that Megan, and Dillon or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1268	1	4	4	suborq_1268_3_2.wav	
+suborq	4	2	1	l	You said that Dillon and Lauren, or Morgan would help. But now it turns out that Megan and Lauren, or Morgan would help?	1268	1	5	5	suborq_1268_4_1.wav	
+suborq	2	1	3	l	I thought they said Sarah or Marvin, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1268	1	6	6	suborq_1268_2_3.wav	
+suborq	7	4	2	r	He said that Marjorie, and Sally or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1268	1	7	7	suborq_1268_7_2.wav	
+suborq	1	1	4	r	I thought they said Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1268	1	8	8	suborq_1268_1_4.wav	
+suborq	6	3	2	l	She read in the minutes that Marion or Jeremy, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1268	1	9	9	suborq_1268_6_2.wav	
+suborq	8	4	4	l	He said that Sally was nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1268	1	10	10	suborq_1268_8_4.wav	
+suborq	7	4	1	r	He said that Marjorie, and Logan or Sally were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1268	1	11	11	suborq_1268_7_1.wav	
+suborq	1	1	3	r	I thought they said Sarah, or Marvin and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1268	1	12	12	suborq_1268_1_3.wav	
+suborq	3	2	1	r	You said that Megan, and Lauren or Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1268	1	13	13	suborq_1268_3_1.wav	
+suborq	2	1	2	l	I thought they said Marion or Sarah, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1268	1	14	14	suborq_1268_2_2.wav	
+suborq	5	3	3	r	She read in the minutes that Jeremy, or Benjamin and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1268	1	15	15	suborq_1268_5_3.wav	
+suborq	4	2	4	l	You said that Dillon would help. But now it turns out that Megan and Lauren, or Morgan would help?	1268	1	16	16	suborq_1268_4_4.wav	
+suborq	3	2	3	r	You said that Dillon, and Lauren or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1268	1	17	17	suborq_1268_3_3.wav	
+suborq	5	3	1	r	She read in the minutes that Marion, or Benjamin and Jeremy have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1268	1	18	18	suborq_1268_5_1.wav	
+suborq	8	4	2	l	He said that Marjorie and Sally, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1268	1	19	19	suborq_1268_8_2.wav	
+suborq	6	3	4	l	She read in the minutes that Jeremy has to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1268	1	20	20	suborq_1268_6_4.wav	
+suborq	2	1	4	l	I thought they said Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1268	1	21	21	suborq_1268_2_4.wav	
+suborq	7	4	3	r	He said that Sally, and Logan or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1268	1	22	22	suborq_1268_7_3.wav	
+suborq	1	1	1	r	I thought they said Marion, or Marvin and Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1268	1	23	23	suborq_1268_1_1.wav	
+suborq	4	2	2	l	You said that Megan and Dillon, or Morgan would help.  But now it turns out that Megan and Lauren, or Morgan would help?	1268	1	24	24	suborq_1268_4_2.wav	
+suborq	3	2	4	r	You said that Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1268	1	25	25	suborq_1268_3_4.wav	
+suborq	6	3	1	l	She read in the minutes that Marion or Benjamin, and Jeremy have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1268	1	26	26	suborq_1268_6_1.wav	
+suborq	8	4	3	l	He said that Sally and Logan, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1268	1	27	27	suborq_1268_8_3.wav	
+suborq	5	3	2	r	She read in the minutes that Marion, or Jeremy and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1268	1	28	28	suborq_1268_5_2.wav	
+suborq	4	2	3	l	You said that Megan and Lauren, or Dillon would help. But now it turns out that Morgan and Lauren, or Morgan would help?	1268	1	29	29	suborq_1268_4_3.wav	
+suborq	2	1	1	l	I thought they said Marion or Marvin, and Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1268	1	30	30	suborq_1268_2_1.wav	
+suborq	7	4	4	r	He said that Sally was nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1268	1	31	31	suborq_1268_7_4.wav	
+suborq	1	1	2	r	I thought they said Marion, or Sarah and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1268	1	32	32	suborq_1268_1_2.wav	
+suborq	3	2	4	r	You said that Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1269	1	1	1	suborq_1269_3_4.wav	
+suborq	8	4	3	l	He said that Sally and Logan, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1269	1	2	2	suborq_1269_8_3.wav	
+suborq	6	3	1	l	She read in the minutes that Marion or Benjamin, and Jeremy have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1269	1	3	3	suborq_1269_6_1.wav	
+suborq	5	3	2	r	She read in the minutes that Marion, or Jeremy and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1269	1	4	4	suborq_1269_5_2.wav	
+suborq	1	1	2	r	I thought they said Marion, or Sarah and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1269	1	5	5	suborq_1269_1_2.wav	
+suborq	7	4	4	r	He said that Sally was nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1269	1	6	6	suborq_1269_7_4.wav	
+suborq	2	1	1	l	I thought they said Marion or Marvin, and Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1269	1	7	7	suborq_1269_2_1.wav	
+suborq	4	2	3	l	You said that Megan and Lauren, or Dillon would help. But now it turns out that Morgan and Lauren, or Morgan would help?	1269	1	8	8	suborq_1269_4_3.wav	
+suborq	5	3	3	r	She read in the minutes that Jeremy, or Benjamin and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1269	1	9	9	suborq_1269_5_3.wav	
+suborq	6	3	2	l	She read in the minutes that Marion or Jeremy, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1269	1	10	10	suborq_1269_6_2.wav	
+suborq	8	4	4	l	He said that Sally was nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1269	1	11	11	suborq_1269_8_4.wav	
+suborq	3	2	1	r	You said that Megan, and Lauren or Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1269	1	12	12	suborq_1269_3_1.wav	
+suborq	7	4	1	r	He said that Marjorie, and Logan or Sally were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1269	1	13	13	suborq_1269_7_1.wav	
+suborq	1	1	3	r	I thought they said Sarah, or Marvin and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1269	1	14	14	suborq_1269_1_3.wav	
+suborq	2	1	2	l	I thought they said Marion or Sarah, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1269	1	15	15	suborq_1269_2_2.wav	
+suborq	4	2	4	l	You said that Dillon would help. But now it turns out that Megan and Lauren, or Morgan would help?	1269	1	16	16	suborq_1269_4_4.wav	
+suborq	7	4	3	r	He said that Sally, and Logan or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1269	1	17	17	suborq_1269_7_3.wav	
+suborq	6	3	4	l	She read in the minutes that Jeremy has to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1269	1	18	18	suborq_1269_6_4.wav	
+suborq	8	4	2	l	He said that Marjorie and Sally, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1269	1	19	19	suborq_1269_8_2.wav	
+suborq	1	1	1	r	I thought they said Marion, or Marvin and Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1269	1	20	20	suborq_1269_1_1.wav	
+suborq	5	3	1	r	She read in the minutes that Marion, or Benjamin and Jeremy have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1269	1	21	21	suborq_1269_5_1.wav	
+suborq	2	1	4	l	I thought they said Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1269	1	22	22	suborq_1269_2_4.wav	
+suborq	3	2	3	r	You said that Dillon, and Lauren or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1269	1	23	23	suborq_1269_3_3.wav	
+suborq	4	2	2	l	You said that Megan and Dillon, or Morgan would help.  But now it turns out that Megan and Lauren, or Morgan would help?	1269	1	24	24	suborq_1269_4_2.wav	
+suborq	1	1	4	r	I thought they said Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1269	1	25	25	suborq_1269_1_4.wav	
+suborq	7	4	2	r	He said that Marjorie, and Sally or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1269	1	26	26	suborq_1269_7_2.wav	
+suborq	6	3	3	l	She read in the minutes that Jeremy or Benjamin, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1269	1	27	27	suborq_1269_6_3.wav	
+suborq	8	4	1	l	He said that Marjorie and Logan, or Sally were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1269	1	28	28	suborq_1269_8_1.wav	
+suborq	4	2	1	l	You said that Dillon and Lauren, or Morgan would help. But now it turns out that Megan and Lauren, or Morgan would help?	1269	1	29	29	suborq_1269_4_1.wav	
+suborq	5	3	4	r	She read in the minutes that Jeremy has to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1269	1	30	30	suborq_1269_5_4.wav	
+suborq	3	2	2	r	You said that Megan, and Dillon or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1269	1	31	31	suborq_1269_3_2.wav	
+suborq	2	1	3	l	I thought they said Sarah or Marvin, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1269	1	32	32	suborq_1269_2_3.wav	
+suborq	3	2	3	r	You said that Dillon, and Lauren or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	107	1	1	1	suborq_107_3_3.wav	
+suborq	5	3	1	r	She read in the minutes that Marion, or Benjamin and Jeremy have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	107	1	2	2	suborq_107_5_1.wav	
+suborq	2	1	4	l	I thought they said Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	107	1	3	3	suborq_107_2_4.wav	
+suborq	4	2	2	l	You said that Megan and Dillon, or Morgan would help.  But now it turns out that Megan and Lauren, or Morgan would help?	107	1	4	4	suborq_107_4_2.wav	
+suborq	6	3	4	l	She read in the minutes that Jeremy has to go. But it actually says that Marion or Benjamin, and Lillian have to go?	107	1	5	5	suborq_107_6_4.wav	
+suborq	1	1	1	r	I thought they said Marion, or Marvin and Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	107	1	6	6	suborq_107_1_1.wav	
+suborq	7	4	3	r	He said that Sally, and Logan or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	107	1	7	7	suborq_107_7_3.wav	
+suborq	8	4	2	l	He said that Marjorie and Sally, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	107	1	8	8	suborq_107_8_2.wav	
+suborq	3	2	4	r	You said that Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	107	1	9	9	suborq_107_3_4.wav	
+suborq	4	2	3	l	You said that Megan and Lauren, or Dillon would help. But now it turns out that Morgan and Lauren, or Morgan would help?	107	1	10	10	suborq_107_4_3.wav	
+suborq	5	3	2	r	She read in the minutes that Marion, or Jeremy and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	107	1	11	11	suborq_107_5_2.wav	
+suborq	2	1	1	l	I thought they said Marion or Marvin, and Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	107	1	12	12	suborq_107_2_1.wav	
+suborq	6	3	1	l	She read in the minutes that Marion or Benjamin, and Jeremy have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	107	1	13	13	suborq_107_6_1.wav	
+suborq	7	4	4	r	He said that Sally was nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	107	1	14	14	suborq_107_7_4.wav	
+suborq	1	1	2	r	I thought they said Marion, or Sarah and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	107	1	15	15	suborq_107_1_2.wav	
+suborq	8	4	3	l	He said that Sally and Logan, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	107	1	16	16	suborq_107_8_3.wav	
+suborq	4	2	4	l	You said that Dillon would help. But now it turns out that Megan and Lauren, or Morgan would help?	107	1	17	17	suborq_107_4_4.wav	
+suborq	3	2	1	r	You said that Megan, and Lauren or Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	107	1	18	18	suborq_107_3_1.wav	
+suborq	5	3	3	r	She read in the minutes that Jeremy, or Benjamin and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	107	1	19	19	suborq_107_5_3.wav	
+suborq	2	1	2	l	I thought they said Marion or Sarah, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	107	1	20	20	suborq_107_2_2.wav	
+suborq	6	3	2	l	She read in the minutes that Marion or Jeremy, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	107	1	21	21	suborq_107_6_2.wav	
+suborq	8	4	4	l	He said that Sally was nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	107	1	22	22	suborq_107_8_4.wav	
+suborq	1	1	3	r	I thought they said Sarah, or Marvin and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	107	1	23	23	suborq_107_1_3.wav	
+suborq	7	4	1	r	He said that Marjorie, and Logan or Sally were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	107	1	24	24	suborq_107_7_1.wav	
+suborq	5	3	4	r	She read in the minutes that Jeremy has to go. But it actually says that Marion, or Benjamin and Lillian have to go?	107	1	25	25	suborq_107_5_4.wav	
+suborq	3	2	2	r	You said that Megan, and Dillon or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	107	1	26	26	suborq_107_3_2.wav	
+suborq	2	1	3	l	I thought they said Sarah or Marvin, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	107	1	27	27	suborq_107_2_3.wav	
+suborq	4	2	1	l	You said that Dillon and Lauren, or Morgan would help. But now it turns out that Megan and Lauren, or Morgan would help?	107	1	28	28	suborq_107_4_1.wav	
+suborq	7	4	2	r	He said that Marjorie, and Sally or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	107	1	29	29	suborq_107_7_2.wav	
+suborq	6	3	3	l	She read in the minutes that Jeremy or Benjamin, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	107	1	30	30	suborq_107_6_3.wav	
+suborq	1	1	4	r	I thought they said Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	107	1	31	31	suborq_107_1_4.wav	
+suborq	8	4	1	l	He said that Marjorie and Logan, or Sally were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	107	1	32	32	suborq_107_8_1.wav	
+suborq	5	3	2	r	She read in the minutes that Marion, or Jeremy and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	874	1	1	1	suborq_874_5_2.wav	
+suborq	3	2	4	r	You said that Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	874	1	2	2	suborq_874_3_4.wav	
+suborq	8	4	3	l	He said that Sally and Logan, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	874	1	3	3	suborq_874_8_3.wav	
+suborq	6	3	1	l	She read in the minutes that Marion or Benjamin, and Jeremy have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	874	1	4	4	suborq_874_6_1.wav	
+suborq	7	4	4	r	He said that Sally was nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	874	1	5	5	suborq_874_7_4.wav	
+suborq	1	1	2	r	I thought they said Marion, or Sarah and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	874	1	6	6	suborq_874_1_2.wav	
+suborq	2	1	1	l	I thought they said Marion or Marvin, and Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	874	1	7	7	suborq_874_2_1.wav	
+suborq	4	2	3	l	You said that Megan and Lauren, or Dillon would help. But now it turns out that Morgan and Lauren, or Morgan would help?	874	1	8	8	suborq_874_4_3.wav	
+suborq	6	3	2	l	She read in the minutes that Marion or Jeremy, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	874	1	9	9	suborq_874_6_2.wav	
+suborq	8	4	4	l	He said that Sally was nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	874	1	10	10	suborq_874_8_4.wav	
+suborq	1	1	3	r	I thought they said Sarah, or Marvin and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	874	1	11	11	suborq_874_1_3.wav	
+suborq	7	4	1	r	He said that Marjorie, and Logan or Sally were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	874	1	12	12	suborq_874_7_1.wav	
+suborq	4	2	4	l	You said that Dillon would help. But now it turns out that Megan and Lauren, or Morgan would help?	874	1	13	13	suborq_874_4_4.wav	
+suborq	2	1	2	l	I thought they said Marion or Sarah, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	874	1	14	14	suborq_874_2_2.wav	
+suborq	3	2	1	r	You said that Megan, and Lauren or Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	874	1	15	15	suborq_874_3_1.wav	
+suborq	5	3	3	r	She read in the minutes that Jeremy, or Benjamin and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	874	1	16	16	suborq_874_5_3.wav	
+suborq	5	3	4	r	She read in the minutes that Jeremy has to go. But it actually says that Marion, or Benjamin and Lillian have to go?	874	1	17	17	suborq_874_5_4.wav	
+suborq	3	2	2	r	You said that Megan, and Dillon or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	874	1	18	18	suborq_874_3_2.wav	
+suborq	6	3	3	l	She read in the minutes that Jeremy or Benjamin, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	874	1	19	19	suborq_874_6_3.wav	
+suborq	8	4	1	l	He said that Marjorie and Logan, or Sally were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	874	1	20	20	suborq_874_8_1.wav	
+suborq	1	1	4	r	I thought they said Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	874	1	21	21	suborq_874_1_4.wav	
+suborq	4	2	1	l	You said that Dillon and Lauren, or Morgan would help. But now it turns out that Megan and Lauren, or Morgan would help?	874	1	22	22	suborq_874_4_1.wav	
+suborq	7	4	2	r	He said that Marjorie, and Sally or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	874	1	23	23	suborq_874_7_2.wav	
+suborq	2	1	3	l	I thought they said Sarah or Marvin, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	874	1	24	24	suborq_874_2_3.wav	
+suborq	8	4	2	l	He said that Marjorie and Sally, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	874	1	25	25	suborq_874_8_2.wav	
+suborq	6	3	4	l	She read in the minutes that Jeremy has to go. But it actually says that Marion or Benjamin, and Lillian have to go?	874	1	26	26	suborq_874_6_4.wav	
+suborq	3	2	3	r	You said that Dillon, and Lauren or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	874	1	27	27	suborq_874_3_3.wav	
+suborq	5	3	1	r	She read in the minutes that Marion, or Benjamin and Jeremy have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	874	1	28	28	suborq_874_5_1.wav	
+suborq	7	4	3	r	He said that Sally, and Logan or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	874	1	29	29	suborq_874_7_3.wav	
+suborq	1	1	1	r	I thought they said Marion, or Marvin and Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	874	1	30	30	suborq_874_1_1.wav	
+suborq	4	2	2	l	You said that Megan and Dillon, or Morgan would help.  But now it turns out that Megan and Lauren, or Morgan would help?	874	1	31	31	suborq_874_4_2.wav	
+suborq	2	1	4	l	I thought they said Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	874	1	32	32	suborq_874_2_4.wav	
+suborq	2	1	1	l	I thought they said Marion or Marvin, and Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1273	1	1	1	suborq_1273_2_1.wav	
+suborq	5	3	2	r	She read in the minutes that Marion, or Jeremy and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1273	1	2	2	suborq_1273_5_2.wav	
+suborq	3	2	4	r	You said that Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1273	1	3	3	suborq_1273_3_4.wav	
+suborq	4	2	3	l	You said that Megan and Lauren, or Dillon would help. But now it turns out that Morgan and Lauren, or Morgan would help?	1273	1	4	4	suborq_1273_4_3.wav	
+suborq	8	4	3	l	He said that Sally and Logan, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1273	1	5	5	suborq_1273_8_3.wav	
+suborq	6	3	1	l	She read in the minutes that Marion or Benjamin, and Jeremy have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1273	1	6	6	suborq_1273_6_1.wav	
+suborq	1	1	2	r	I thought they said Marion, or Sarah and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1273	1	7	7	suborq_1273_1_2.wav	
+suborq	7	4	4	r	He said that Sally was nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1273	1	8	8	suborq_1273_7_4.wav	
+suborq	2	1	4	l	I thought they said Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1273	1	9	9	suborq_1273_2_4.wav	
+suborq	4	2	2	l	You said that Megan and Dillon, or Morgan would help.  But now it turns out that Megan and Lauren, or Morgan would help?	1273	1	10	10	suborq_1273_4_2.wav	
+suborq	5	3	1	r	She read in the minutes that Marion, or Benjamin and Jeremy have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1273	1	11	11	suborq_1273_5_1.wav	
+suborq	3	2	3	r	You said that Dillon, and Lauren or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1273	1	12	12	suborq_1273_3_3.wav	
+suborq	6	3	4	l	She read in the minutes that Jeremy has to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1273	1	13	13	suborq_1273_6_4.wav	
+suborq	1	1	1	r	I thought they said Marion, or Marvin and Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1273	1	14	14	suborq_1273_1_1.wav	
+suborq	8	4	2	l	He said that Marjorie and Sally, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1273	1	15	15	suborq_1273_8_2.wav	
+suborq	7	4	3	r	He said that Sally, and Logan or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1273	1	16	16	suborq_1273_7_3.wav	
+suborq	7	4	2	r	He said that Marjorie, and Sally or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1273	1	17	17	suborq_1273_7_2.wav	
+suborq	4	2	1	l	You said that Dillon and Lauren, or Morgan would help. But now it turns out that Megan and Lauren, or Morgan would help?	1273	1	18	18	suborq_1273_4_1.wav	
+suborq	2	1	3	l	I thought they said Sarah or Marvin, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1273	1	19	19	suborq_1273_2_3.wav	
+suborq	1	1	4	r	I thought they said Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1273	1	20	20	suborq_1273_1_4.wav	
+suborq	6	3	3	l	She read in the minutes that Jeremy or Benjamin, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1273	1	21	21	suborq_1273_6_3.wav	
+suborq	8	4	1	l	He said that Marjorie and Logan, or Sally were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1273	1	22	22	suborq_1273_8_1.wav	
+suborq	5	3	4	r	She read in the minutes that Jeremy has to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1273	1	23	23	suborq_1273_5_4.wav	
+suborq	3	2	2	r	You said that Megan, and Dillon or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1273	1	24	24	suborq_1273_3_2.wav	
+suborq	4	2	4	l	You said that Dillon would help. But now it turns out that Megan and Lauren, or Morgan would help?	1273	1	25	25	suborq_1273_4_4.wav	
+suborq	2	1	2	l	I thought they said Marion or Sarah, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1273	1	26	26	suborq_1273_2_2.wav	
+suborq	1	1	3	r	I thought they said Sarah, or Marvin and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1273	1	27	27	suborq_1273_1_3.wav	
+suborq	7	4	1	r	He said that Marjorie, and Logan or Sally were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1273	1	28	28	suborq_1273_7_1.wav	
+suborq	3	2	1	r	You said that Megan, and Lauren or Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1273	1	29	29	suborq_1273_3_1.wav	
+suborq	8	4	4	l	He said that Sally was nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1273	1	30	30	suborq_1273_8_4.wav	
+suborq	6	3	2	l	She read in the minutes that Marion or Jeremy, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1273	1	31	31	suborq_1273_6_2.wav	
+suborq	5	3	3	r	She read in the minutes that Jeremy, or Benjamin and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1273	1	32	32	suborq_1273_5_3.wav	
+suborq	7	4	2	r	He said that Marjorie, and Sally or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1284	1	1	1	suborq_1284_7_2.wav	
+suborq	2	1	3	l	I thought they said Sarah or Marvin, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1284	1	2	2	suborq_1284_2_3.wav	
+suborq	4	2	1	l	You said that Dillon and Lauren, or Morgan would help. But now it turns out that Megan and Lauren, or Morgan would help?	1284	1	3	3	suborq_1284_4_1.wav	
+suborq	1	1	4	r	I thought they said Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1284	1	4	4	suborq_1284_1_4.wav	
+suborq	5	3	4	r	She read in the minutes that Jeremy has to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1284	1	5	5	suborq_1284_5_4.wav	
+suborq	6	3	3	l	She read in the minutes that Jeremy or Benjamin, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1284	1	6	6	suborq_1284_6_3.wav	
+suborq	8	4	1	l	He said that Marjorie and Logan, or Sally were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1284	1	7	7	suborq_1284_8_1.wav	
+suborq	3	2	2	r	You said that Megan, and Dillon or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1284	1	8	8	suborq_1284_3_2.wav	
+suborq	2	1	4	l	I thought they said Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1284	1	9	9	suborq_1284_2_4.wav	
+suborq	7	4	3	r	He said that Sally, and Logan or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1284	1	10	10	suborq_1284_7_3.wav	
+suborq	4	2	2	l	You said that Megan and Dillon, or Morgan would help.  But now it turns out that Megan and Lauren, or Morgan would help?	1284	1	11	11	suborq_1284_4_2.wav	
+suborq	1	1	1	r	I thought they said Marion, or Marvin and Sarah arrived. But you say that Marion, or Marvin and Nolan arrived?	1284	1	12	12	suborq_1284_1_1.wav	
+suborq	5	3	1	r	She read in the minutes that Marion, or Benjamin and Jeremy have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1284	1	13	13	suborq_1284_5_1.wav	
+suborq	3	2	3	r	You said that Dillon, and Lauren or Morgan would help. But now it turns out that Megan, and Lauren or Morgan would help?	1284	1	14	14	suborq_1284_3_3.wav	
+suborq	8	4	2	l	He said that Marjorie and Sally, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1284	1	15	15	suborq_1284_8_2.wav	
+suborq	6	3	4	l	She read in the minutes that Jeremy has to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1284	1	16	16	suborq_1284_6_4.wav	
+suborq	2	1	1	l	I thought they said Marion or Marvin, and Sarah arrived. But you say that Marion or Marvin, and Nolan arrived?	1284	1	17	17	suborq_1284_2_1.wav	
+suborq	3	2	4	r	You said that Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1284	1	18	18	suborq_1284_3_4.wav	
+suborq	5	3	2	r	She read in the minutes that Marion, or Jeremy and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1284	1	19	19	suborq_1284_5_2.wav	
+suborq	4	2	3	l	You said that Megan and Lauren, or Dillon would help. But now it turns out that Morgan and Lauren, or Morgan would help?	1284	1	20	20	suborq_1284_4_3.wav	
+suborq	1	1	2	r	I thought they said Marion, or Sarah and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1284	1	21	21	suborq_1284_1_2.wav	
+suborq	8	4	3	l	He said that Sally and Logan, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1284	1	22	22	suborq_1284_8_3.wav	
+suborq	6	3	1	l	She read in the minutes that Marion or Benjamin, and Jeremy have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1284	1	23	23	suborq_1284_6_1.wav	
+suborq	7	4	4	r	He said that Sally was nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1284	1	24	24	suborq_1284_7_4.wav	
+suborq	7	4	1	r	He said that Marjorie, and Logan or Sally were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated?	1284	1	25	25	suborq_1284_7_1.wav	
+suborq	1	1	3	r	I thought they said Sarah, or Marvin and Nolan arrived. But you say that Marion, or Marvin and Nolan arrived?	1284	1	26	26	suborq_1284_1_3.wav	
+suborq	2	1	2	l	I thought they said Marion or Sarah, and Nolan arrived. But you say that Marion or Marvin, and Nolan arrived?	1284	1	27	27	suborq_1284_2_2.wav	
+suborq	4	2	4	l	You said that Dillon would help. But now it turns out that Megan and Lauren, or Morgan would help?	1284	1	28	28	suborq_1284_4_4.wav	
+suborq	6	3	2	l	She read in the minutes that Marion or Jeremy, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go?	1284	1	29	29	suborq_1284_6_2.wav	
+suborq	3	2	1	r	You said that Megan, and Lauren or Dillon would help. But now it turns out that Megan, and Lauren or Morgan would help?	1284	1	30	30	suborq_1284_3_1.wav	
+suborq	8	4	4	l	He said that Sally was nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated?	1284	1	31	31	suborq_1284_8_4.wav	
+suborq	5	3	3	r	She read in the minutes that Jeremy, or Benjamin and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go?	1284	1	32	32	suborq_1284_5_3.wav	

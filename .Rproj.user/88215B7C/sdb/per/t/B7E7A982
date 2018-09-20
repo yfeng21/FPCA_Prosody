@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "# Residuals for focus\nlibrary(lme4)\n\ni=1\nfeatures=data.frame(discourse_list,speakers,intonation,focus,structure)\ndata1=data.frame(f0_list[i],time_list[i])\ncolnames(data1) <- c(\"f0\",\"time\")\nwrite.csv(structure_item1, file = \"structure_item1.csv\",row.names=FALSE)\n\nt_data$F0_relative<-t_data$F0_relative\nt_data$element_norm_time<-t_data$element_norm_time-4\nt_data$Intonation<-as.factor(t_data$Intonation)\nt_data$Structure<-as.factor(t_data$Structure)\nt_data$Focus<-as.factor(t_data$Focus)\nt_data$speaker<-as.factor(t_data$speaker)\n\n# Residuals for focus\nmodel.lm = lmer(F0_relative~\n                  element_norm_time*Structure*Intonation+(1|speaker),data=t_data,na.action=na.exclude)\n\nmodelResiduals = resid(model.lm)\nt_data$Focus_res=modelResiduals\n\n#Residuals for intonation\nmodel.lm = lmer(F0_relative~\n                  element_norm_time*Structure*Focus+(1|speaker),data=t_data,na.action=na.exclude)\n\nmodelResiduals = resid(model.lm)\nt_data$Int_res=modelResiduals\n\n#Residuals for Structure\nmodel.lm = lmer(F0_relative~\n                  element_norm_time*Intonation*Focus+(1|speaker),data=t_data,na.action=na.exclude)\n\nmodelResiduals = resid(model.lm)\nt_data$Str_res=modelResiduals\n\n#second word only\nt_data_2$F0_relative<-t_data_2$F0_relative\nt_data_2$element_norm_time<-t_data_2$element_norm_time+1\nt_data_2$Intonation<-as.factor(t_data_2$Intonation)\nt_data_2$Structure<-as.factor(t_data_2$Structure)\nt_data_2$Focus<-as.factor(t_data_2$Focus)\nt_data_2$speaker<-as.factor(t_data_2$speaker)\n\n#Residuals for Structure\nmodel.lm = lmer(F0_relative~\n                  element_norm_time*Intonation*Focus+(1|speaker),data=t_data_2,na.action=na.exclude)\nmodelResiduals = resid(model.lm)\nt_data_2$Str_res=modelResiduals\n\n#Residuals for intonation\nmodel.lm = lmer(F0_relative~\n                  element_norm_time*Structure*Focus+(1|speaker),data=t_data_2,na.action=na.exclude)\nmodelResiduals = resid(model.lm)\nt_data_2$Int_res=modelResiduals\n\n# Residuals for focus\nmodel.lm = lmer(F0_relative~\n                  element_norm_time*Structure*Intonation+(1|speaker),data=t_data_2,na.action=na.exclude)\n\nmodelResiduals = resid(model.lm)\nt_data_2$Focus_res=modelResiduals\n\n\n\n\n",
+    "created" : 1499720504054.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1214041117",
+    "id" : "B7E7A982",
+    "lastKnownWriteTime" : 1501874661,
+    "last_content_update" : 1501874662483,
+    "path" : "E:/Summer 2017/Yulan/Scripts/Residualization.r",
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

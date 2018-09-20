@@ -1,0 +1,33 @@
+experiment	item	item_original	condition	bracketing	text
+suborn	1	1	1	r	I thought they said Marion, or Marvin and Sarah arrived. But in fact they said that Marion, or Marvin and Nolan arrived.
+suborn	1	1	2	r	I thought they said Marion, or Sarah and Nolan arrived. But in fact they said that Marion, or Marvin and Nolan arrived.
+suborn	1	1	3	r	I thought they said Sarah, or Marvin and Nolan arrived. But in fact they said that Marion, or Marvin and Nolan arrived.
+suborn	1	1	4	r	I thought they said Sarah arrived. But in fact they said that Marion, or Marvin and Nolan arrived.
+suborn	2	1	1	l	I thought they said Marion or Marvin, and Sarah arrived. But in fact they said that Marion or Marvin, and Nolan arrived.
+suborn	2	1	2	l	I thought they said Marion or Sarah, and Nolan arrived. But in fact they said that Marion or Marvin, and Nolan arrived.
+suborn	2	1	3	l	I thought they said Sarah or Marvin, and Nolan arrived. But in fact they said that Marion or Marvin, and Nolan arrived.
+suborn	2	1	4	l	I thought they said Sarah arrived. But in fact they said that Marion or Marvin, and Nolan arrived.
+suborn	3	2	1	r	You said that Megan, and Lauren or Dillon would help. But in fact we were told that Megan, and Lauren or Morgan would help.
+suborn	3	2	2	r	You said that Megan, and Dillon or Morgan would help. But in fact we were told that Megan, and Lauren or Morgan would help.
+suborn	3	2	3	r	You said that Dillon, and Lauren or Morgan would help. But in fact we were told that Megan, and Lauren or Morgan would help.
+suborn	3	2	4	r	You said that Dillon would help. But in fact we were told that Megan, and Lauren or Morgan would help.
+suborn	4	2	1	l	You said that Dillon and Lauren, or Morgan would help. But in fact we were told that Megan and Lauren, or Morgan would help.
+suborn	4	2	2	l	You said that Megan and Dillon, or Morgan would help. But in fact we were told that Megan and Lauren, or Morgan would help.
+suborn	4	2	3	l	You said that Megan and Lauren, or Dillon would help. But in fact we were told that Morgan and Lauren, or Morgan would help.
+suborn	4	2	4	l	You said that Dillon would help. But in fact we were told that Megan and Lauren, or Morgan would help.
+suborn	5	3	1	r	She read in the minutes that Marion, or Benjamin and Jeremy have to go. But it actually says that Marion, or Benjamin and Lillian have to go.
+suborn	5	3	2	r	She read in the minutes that Marion, or Jeremy and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go.
+suborn	5	3	3	r	She read in the minutes that Jeremy, or Benjamin and Lillian have to go. But it actually says that Marion, or Benjamin and Lillian have to go.
+suborn	5	3	4	r	She read in the minutes that Jeremy has to go. But it actually says that Marion, or Benjamin and Lillian have to go.
+suborn	6	3	1	l	She read in the minutes that Marion or Benjamin, and Jeremy have to go. But it actually says that Marion or Benjamin, and Lillian have to go.
+suborn	6	3	2	l	She read in the minutes that Marion or Jeremy, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go.
+suborn	6	3	3	l	She read in the minutes that Jeremy or Benjamin, and Lillian have to go. But it actually says that Marion or Benjamin, and Lillian have to go.
+suborn	6	3	4	l	She read in the minutes that Jeremy has to go. But it actually says that Marion or Benjamin, and Lillian have to go.
+suborn	7	4	1	r	He said that Marjorie, and Logan or Sally were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated.  
+suborn	7	4	2	r	He said that Marjorie, and Sally or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated.
+suborn	7	4	3	r	He said that Sally, and Logan or Molly were nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated.
+suborn	7	4	4	r	He said that Sally was nominated for the prize. But the newspaper says that Marjorie, and Logan or Molly were nominated.
+suborn	8	4	1	l	He said that Marjorie and Logan, or Sally were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated.
+suborn	8	4	2	l	He said that Marjorie and Sally, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated.
+suborn	8	4	3	l	He said that Sally and Logan, or Molly were nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated.
+suborn	8	4	4	l	He said that Sally was nominated for the prize. But the newspaper says that  Marjorie and Logan, or Molly were nominated.

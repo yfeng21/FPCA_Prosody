@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "library(stringr)\nlibrary(ggplot2)\n\n#Extract data from raw wave files\nsuborn <- read.delim('E:/Summer 2017/2_Stats/suborn_responses.txt')\nsuborn$discourse <- str_replace(suborn$recordedFile, '.wav', '')\nsuborn$item<-factor(suborn$item_original)\nsuborn$Focus <- factor(suborn$condition, labels = c('Third','Second','First','Wide'))\nsuborn$Intonation <- 'Declarative'\nsuborn$Structure <- factor(suborn$bracketing, labels =c(\"(AB)C\", \"A(BC)\"))\n\nsuborn <- suborn[,c('discourse', 'item', 'Focus', 'Intonation', 'Structure')]\n\nsuborq <- read.delim('E:/Summer 2017/2_Stats/suborq_responses.txt')\nsuborq$discourse <- str_replace(suborq$recordedFile, '.wav', '')\nsuborq$item<-factor(suborq$condition)\nsuborq$Focus <- factor(suborq$bracketing, labels = c('Third','Second','First','Wide'))\nsuborq$Intonation <- 'Interrogative'\nsuborq$Structure <- factor(suborq$order, labels =c(\"(AB)C\", \"A(BC)\"))\n\nsuborq <- suborq[,c('discourse','item', 'Focus', 'Intonation', 'Structure')]\n\ncondition.data <- rbind(suborn, suborq)\n\n\n#Combine the 2 datasets and remove null entries\ninterest_tracks <- read.csv('E:/Summer 2017/2_Stats/tracks.txt')\n# summary(interest_tracks)\n\ninterest_tracks$duration <- interest_tracks$end - interest_tracks$begin\ninterest_tracks$norm_word_positon <- interest_tracks$word_position / interest_tracks$word_num_phones\ninterest_tracks$norm_time <- (interest_tracks$time - interest_tracks$begin) / interest_tracks$duration\ninterest_tracks$justified_time <- (interest_tracks$time - interest_tracks$begin) \ninterest_tracks$utt_norm_time <- interest_tracks$norm_time + interest_tracks$utterance_position\ninterest_tracks$element_norm_time <- (interest_tracks$word_element_number + (interest_tracks$word_position - 1)  / interest_tracks$word_num_phones)+ interest_tracks$norm_time * (1/ interest_tracks$word_num_phones)\ninterest_tracks$phone_id <- paste(interest_tracks$phone, interest_tracks$discourse, as.character(interest_tracks$begin),sep='_')\ninterest_tracks <- merge(interest_tracks, condition.data)\n\n\ninterest_tracks[interest_tracks$Focus == 'Wide',]$element_norm_time <- interest_tracks[interest_tracks$Focus == 'Wide',]$element_norm_time + 2\n\n\n\ncompleteFun <- function(data, desiredCols) {\n  completeVec <- complete.cases(data[, desiredCols])\n  return(data[completeVec, ])\n}\nt_data = subset(interest_tracks, element_norm_time >= 4)\nt_data=subset(t_data,item==1)\n\n\nt_data_2 = subset(interest_tracks, element_norm_time >= 5&element_norm_time < 6)\nt_data_2=subset(t_data_2,item==1)\nt_data_2=completeFun(t_data_2,\"F0_relative\")\n\nt_data=completeFun(t_data,\"F0_relative\")\nsummary(t_data)\nggplot(aes(x=justified_time, y = F0_relative), data= subset(t_data, phone_id == 'OW1_suborn_1067_1_3_5.69'))+ geom_point() + facet_grid(Focus~Structure*Intonation)   #+ scale_x_continuous(breaks=seq(1:7))\nggsave('utt_pitch_tracks.pdf', width = 8, height = 8)\n",
+    "created" : 1499831480240.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1811239841",
+    "id" : "2D622E16",
+    "lastKnownWriteTime" : 1500323783,
+    "last_content_update" : 1500323783942,
+    "path" : "E:/Summer 2017/Yulan/Scripts/Preprocessing.r",
+    "project_path" : null,
+    "properties" : {
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
